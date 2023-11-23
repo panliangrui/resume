@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "China"
-title                    : "Liangrui Pan /潘良睿"
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Liangrui Pan"
-description              : &description "Repair the road in your heart and walk the road under your feet./修好心中路，走好脚下路。"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://panliangrui.github.io/resume/"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Liangrui Pan, 潘良睿"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Changsha, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/collections/mybibliography/"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=-zSEPX0AAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "panlr@hnu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Liangrui-Pan"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/panliangrui"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0565-4217"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "None"
   vine             :
   weibo            :
   xing             :
