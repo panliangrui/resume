@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Liangrui Pan, 潘良睿"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : ""
+  bio              : "Repair the road in your heart and walk the road under your feet./修好心中路，走好脚下路。"
   location         : "Changsha, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/collections/mybibliography/"
