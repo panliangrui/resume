@@ -15,21 +15,19 @@ In academic innovation, During my PhD (supervisor: [Shaoliang Peng](http://csee.
 
 News!
 ======
-On November 23, 2024, one of our articles was accepted by npj Precision Oncology (JCR Q1) journal!
+On November 23, 2024, one of our articles was accepted by **npj Precision Oncology (JCR Q1)** journal!
 
-On October 23, 2024, one of our articles was accepted by Computer Methods and Programs in Biomedicine (JCR Q1) journal!
+On October 23, 2024, one of our articles was accepted by **Computer Methods and Programs in Biomedicine (JCR Q1)** journal!
 
-On October 23, 2024, one of our articles was accepted by Nature communication (JCR Q1) journal! Paper is available online here https://doi.org/10.1038/s41467-024-52293-7 or as a PDF here https://www.nature.com/articles/s41467-024-52293-7.pdf!
+On October 23, 2024, one of our articles was accepted by **Nature communication (JCR Q1)** journal! Paper is available online here https://doi.org/10.1038/s41467-024-52293-7 or as a PDF here https://www.nature.com/articles/s41467-024-52293-7.pdf!
 
-On October 14, 2024, 2 of our articles were accepted by IEEE BIBM (CCF B) conference.
+On October 14, 2024, 2 of our articles were accepted by **IEEE BIBM (CCF B)** conference.
 
-On November 23, 2024, one of our articles was accepted by npj Precision Oncology (a sub-journal of Nature)!
+On August 16, 2024, one of our articles was accepted by the **IEEE BIBM (CCF B)** conference.
 
-On August 16, 2024, one of our articles was accepted by the IEEE BIBM (CCF B) conference.
+On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journal!
 
-On May 2, 2024, one of our articles was accepted by the Meta-Radiology journal!
-
-On March 14, 2024, one of our articles was accepted by the Computers in Biology and Medicine (JCR Q1) journal!
+On March 14, 2024, one of our articles was accepted by the **Computers in Biology and Medicine (JCR Q1)** journal!
 
 
 
