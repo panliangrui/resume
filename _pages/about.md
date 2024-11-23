@@ -33,7 +33,7 @@ On March 14, 2024, one of our articles was accepted by the **Computers in Biolog
 
 # Publications
 
-### 2024
+## 2024
 - **FedDP**: Privacy-preserving method based on federated learning for histopathology image segmentation  
   *L. Pan, M. Huang, L. Wang, P. Qin, S. Peng*  
   *arXiv preprint arXiv:2411.04509* **CCF B**
@@ -68,7 +68,7 @@ On March 14, 2024, one of our articles was accepted by the **Computers in Biolog
   
 ---
 
-### 2023
+## 2023
 - **PACS**: Prediction and analysis of cancer subtypes from multi-omics data based on a multi-head attention mechanism model  
   *L. Pan, P. Qin, P. Rong, X. Zeng, D. Liu, S. Peng*  
   *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* **CCF B**
@@ -150,31 +150,38 @@ On March 14, 2024, one of our articles was accepted by the **Computers in Biolog
   *L. Pan, P. Pipitsunthonsan, M. Chongcheawchamnan*  
   *2020 13th International Conference on Human System Interaction (HSI), 24-28*  
  
-## Chinese Patent：
-- **基于超算平台的医疗数据并行集成处理方法及系统**，CN202410037338.8，中国，2024年
+# Chinese Patent
 
-- **一种适用于多种癌症的患者生存预后预测方法**，CN202410378048.X，中国，2024年
+## 2024
+- **基于超算平台的医疗数据并行集成处理方法及系统**，CN202410037338.8
 
-- **一种从肺癌组织病理学图像中预测气腔内播散的方法**，202410584578X，中国，2024年
+- **一种适用于多种癌症的患者生存预后预测方法**，CN202410378048.X
 
-- **一种基于机器学习的特征生成方法**，CN202310352774.X，中国，2023年
+- **一种从肺癌组织病理学图像中预测气腔内播散的方法**，202410584578X
 
-- **一种用于医疗特征生成模型的半监督条件迁移学习方法**，CN202310352952.9，中国，2023年
+##2023
+- **一种基于机器学习的特征生成方法**，CN202310352774.X
 
-- **一种基于多头注意力机制的分析癌症多组学数据方法**，CN202310538812.0，中国，2023年
+- **一种用于医疗特征生成模型的半监督条件迁移学习方法**，CN202310352952.9
 
-- **一种基于生成对抗网络增强肝脏磁共振病灶对比度的方法**，CN202311531433.5，中国，2023年
+- **一种基于多头注意力机制的分析癌症多组学数据方法**，CN202310538812.0
 
-- **基于人工智能的癌症患者生存预测方法及装置**，CN202311809540.X，中国，2023年
+- **一种基于生成对抗网络增强肝脏磁共振病灶对比度的方法**，CN202311531433.5
 
-- **一种框架辅助肝癌组织全幻灯片的肿瘤微环境分析方法**，CN202211145469.5，中国，2022年
+- **基于人工智能的癌症患者生存预测方法及装置**，CN202311809540.X，中国
 
-- **一种用于病理图像分割的双端层次化的特征融合方法**，CN202211320016.1，中国，2022年
+##2022
+- **一种框架辅助肝癌组织全幻灯片的肿瘤微环境分析方法**，CN202211145469.5
 
-## Chinese software copyrights：
-- **基于人工智能的肺癌组织病理学图像气腔内播散检测软件**，2024SR0858590，中国，2024年
-  
-- **基于人工智能的结肠细胞核实例分割和定量软件**，2022R11L1842544，中国，2022年
+- **一种用于病理图像分割的双端层次化的特征融合方法**，CN202211320016.1
+
+# Chinese software copyrights
+
+##2024
+- **基于人工智能的肺癌组织病理学图像气腔内播散检测软件**，2024SR0858590
+
+##2022
+- **基于人工智能的结肠细胞核实例分割和定量软件**，2022R11L1842544，
 
 
 
