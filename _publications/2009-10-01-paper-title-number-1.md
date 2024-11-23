@@ -9,4 +9,3 @@ citation: 'Pan, Liangrui, et al. "DEDUCE: Multi-head attention decoupled contras
 ---
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0169260724004711/pdfft?md5=6119438fe31dd738a5bf679e2a6d1c3a&pid=1-s2.0-S0169260724004711-main.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
