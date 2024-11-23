@@ -64,6 +64,7 @@ On March 14, 2024, one of our articles was accepted by the **Computers in Biolog
 - **Optimization of the parallel semi-Lagrangian scheme to overlap computation with communication based on grouping levels in YHGSM**  
   *D. Liu, W. Liu, L. Pan, Y. Dou, J. Wu*  
   *CCF Transactions on High Performance Computing 6 (1), 68-77*  **JCR 3区**
+  
 ---
 
 ### 2023
@@ -86,6 +87,7 @@ On March 14, 2024, one of our articles was accepted by the **Computers in Biolog
 - **Palm bunch grading technique using a multi-input and multi-label convolutional neural network**  
   *P. Pipitsunthonsan, L. Pan, S. Peng, T. Khaorapapong, S. Nakasathien, ...*  
   *Computers and Electronics in Agriculture 210, 107864*  **中科院一区，JCR 1区**
+  
 ---
 
 ## 2022
@@ -116,6 +118,7 @@ On March 14, 2024, one of our articles was accepted by the **Computers in Biolog
 - **A review of artificial intelligence methods combined with Raman spectroscopy to identify the composition of substances**  
   *L. Pan, P. Zhang, C. Daengngam, S. Peng, M. Chongcheawchamnan*  
   *Journal of Raman Spectroscopy 53 (1), 6-19*  **中科院三区，JCR 2区**
+  
 ---
 
 ## 2021
@@ -129,7 +132,8 @@ On March 14, 2024, one of our articles was accepted by the **Computers in Biolog
 
 - **Identification of complex mixtures for Raman spectroscopy using a novel scheme based on a new multi-label deep neural network**  
   *L. Pan, P. Pipitsunthonsan, C. Daengngam, S. Channumsin, S. Sreesawet, ...*  
-  *IEEE Sensors Journal 21 (9), 10834-10843*  **中科院二区，JCR 1区** 
+  *IEEE Sensors Journal 21 (9), 10834-10843*  **中科院二区，JCR 1区**
+  
 ---
 
 ## 2020
