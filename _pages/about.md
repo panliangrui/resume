@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal homepage"
+title: "Welcome！"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -35,15 +35,15 @@ On March 14, 2024, one of our articles was accepted by the **Computers in Biolog
 ### 2024
 - **FedDP**: Privacy-preserving method based on federated learning for histopathology image segmentation  
   *L. Pan, M. Huang, L. Wang, P. Qin, S. Peng*  
-  *arXiv preprint arXiv:2411.04509*
+  *arXiv preprint arXiv:2411.04509* **CCF B**
 
 - **DEDUCE**: Multi-head attention decoupled contrastive learning to discover cancer subtypes based on multi-omics data  
   *L. Pan, X. Wang, Q. Liang, J. Shang, W. Liu, L. Xu, S. Peng*  
-  *Computer Methods and Programs in Biomedicine, 108478*
+  *Computer Methods and Programs in Biomedicine, 108478* **中科院二区，JCR 1区**
 
 - **Improving prediction performance of general protein language model by domain-adaptive pretraining on DNA-binding protein**  
   *W. Zeng, Y. Dou, L. Pan, L. Xu, S. Peng*  
-  *Nature Communications 15 (1), 7838*
+  *Nature Communications 15 (1), 7838* **中科院一区，JCR 1区**
 
 - **FORESEE**: Multimodal and Multi-view Representation Learning for Robust Prediction of Cancer Survival  
   *L. Pan, Y. Peng, Y. Li, Y. Liang, L. Xu, Q. Liang, S. Peng*  
@@ -51,7 +51,7 @@ On March 14, 2024, one of our articles was accepted by the **Computers in Biolog
 
 - **Attention-Based Two-Branch Hybrid Fusion Network for Medical Image Segmentation**  
   *J. Liu, S. Mao, L. Pan*  
-  *Applied Sciences 14 (10), 4073*
+  *Applied Sciences 14 (10), 4073* **中科院三区，JCR 1区**
 
 - **Opportunities and challenges in the application of large artificial intelligence models in radiology**  
   *L. Pan, Z. Zhao, Y. Lu, K. Tang, L. Fu, Q. Liang, S. Peng*  
@@ -59,43 +59,43 @@ On March 14, 2024, one of our articles was accepted by the **Computers in Biolog
 
 - **SELECTOR**: Heterogeneous graph network with convolutional masked autoencoder for multimodal robust prediction of cancer survival  
   *L. Pan, Y. Peng, Y. Li, X. Wang, W. Liu, L. Xu, Q. Liang, S. Peng*  
-  *Computers in Biology and Medicine 172, 108301*
+  *Computers in Biology and Medicine 172, 108301* **中科院二区，JCR 1区**
 
 - **Optimization of the parallel semi-Lagrangian scheme to overlap computation with communication based on grouping levels in YHGSM**  
   *D. Liu, W. Liu, L. Pan, Y. Dou, J. Wu*  
-  *CCF Transactions on High Performance Computing 6 (1), 68-77*
+  *CCF Transactions on High Performance Computing 6 (1), 68-77*  **JCR 3区**
 ---
 
 ### 2023
 - **PACS**: Prediction and analysis of cancer subtypes from multi-omics data based on a multi-head attention mechanism model  
   *L. Pan, P. Qin, P. Rong, X. Zeng, D. Liu, S. Peng*  
-  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*
+  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* **CCF B**
 
 - **LDCSF**: Local depth convolution-based Swim framework for classifying multi-label histopathology images  
   *L. Pan, G. Chen, W. Liu, L. Xu, X. Liu, S. Peng*  
-  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*
+  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* **CCF B**
 
 - **Cvfc**: Attention-based cross-view feature consistency for weakly supervised semantic segmentation of pathology images  
   *L. Pan, K. Li, W. Liu, L. Xu, Z. Feng, S. Peng*  
-  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*
+  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* **CCF B**
 
 - **DHUnet**: Dual-branch hierarchical global–local fusion network for whole slide image segmentation  
   *L. Wang, L. Pan, H. Wang, M. Liu, Z. Feng, P. Rong, Z. Chen, S. Peng*  
-  *Biomedical Signal Processing and Control 85, 104976*
+  *Biomedical Signal Processing and Control 85, 104976* **中科院二区，JCR 1区**
 
 - **Palm bunch grading technique using a multi-input and multi-label convolutional neural network**  
   *P. Pipitsunthonsan, L. Pan, S. Peng, T. Khaorapapong, S. Nakasathien, ...*  
-  *Computers and Electronics in Agriculture 210, 107864*  
+  *Computers and Electronics in Agriculture 210, 107864*  **中科院一区，JCR 1区**
 ---
 
 ## 2022
 - **MGTUNet: A new UNet for colon nuclei instance segmentation and quantification**  
   *L. Pan, L. Wang, Z. Feng, Z. Xu, L. Xu, S. Peng*  
-  *2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*  
+  *2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*  **CCF B**
 
 - **Noise-reducing attention cross fusion learning transformer for histological image classification of osteosarcoma**  
   *L. Pan, H. Wang, L. Wang, B. Ji, M. Liu, M. Chongcheawchamnan, J. Yuan, ...*  
-  *Biomedical Signal Processing and Control 77, 103824*   
+  *Biomedical Signal Processing and Control 77, 103824*  **中科院二区，JCR 1区** 
 
 - **A review of machine learning approaches, challenges and prospects for computational tumor pathology**  
   *L. Pan, Z. Feng, S. Peng*  
@@ -103,33 +103,33 @@ On March 14, 2024, one of our articles was accepted by the **Computers in Biolog
 
 - **Hybrid Beamforming based on an Unsupervised Deep Learning Network for Downlink Channels with Imperfect CSI**  
   *P. Zhang, L. Pan, T. Laohapensaeng, M. Chongcheawchamnan*  
-  *IEEE Wireless Communications Letters*   
+  *IEEE Wireless Communications Letters*  **中科院二区，JCR 1区** 
 
 - **SMMDA: Predicting miRNA-Disease Associations by Incorporating Multiple Similarity Profiles and a Novel Disease Representation**  
   *Bo-Ya Ji, Liang-Rui Pan, Ji-Ren Zhou, Zhu-Hong You, and Shao-Liang Peng*  
-  *Biology*   
+  *Biology*  **中科院三区，JCR 1区** 
 
 - **MFDNN: Multi-channel feature deep neural network algorithm to identify COVID19 chest X-ray images**  
   *L. Pan, B. Ji, H. Wang, L. Wang, M. Liu, M. Chongcheawchamnan, S. Peng*  
-  *Health Information Science and Systems 10 (1), 4*   
+  *Health Information Science and Systems 10 (1), 4*  **中科院三区，JCR 1区** 
 
 - **A review of artificial intelligence methods combined with Raman spectroscopy to identify the composition of substances**  
   *L. Pan, P. Zhang, C. Daengngam, S. Peng, M. Chongcheawchamnan*  
-  *Journal of Raman Spectroscopy 53 (1), 6-19*  
+  *Journal of Raman Spectroscopy 53 (1), 6-19*  **中科院三区，JCR 2区**
 ---
 
 ## 2021
 - **DFL-PiDA: Prediction of Piwi-interacting RNA-disease associations based on deep feature learning**  
   *B. Ji, J. Luo, L. Pan, X. Xie, S. Peng*  
-  *2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*   
+  *2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*  **CCF B** 
 
 - **FEDI: Few-shot learning based on Earth Mover's Distance algorithm combined with deep residual network to identify diabetic retinopathy**  
   *L. Pan, P. Zhang, F. Xia, B. Ji, W. Liu, H. Wang, Y. Jin, ...*  
-  *2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*   
+  *2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*  **CCF B** 
 
 - **Identification of complex mixtures for Raman spectroscopy using a novel scheme based on a new multi-label deep neural network**  
   *L. Pan, P. Pipitsunthonsan, C. Daengngam, S. Channumsin, S. Sreesawet, ...*  
-  *IEEE Sensors Journal 21 (9), 10834-10843*   
+  *IEEE Sensors Journal 21 (9), 10834-10843*  **中科院二区，JCR 1区** 
 ---
 
 ## 2020
@@ -139,7 +139,7 @@ On March 14, 2024, one of our articles was accepted by the **Computers in Biolog
 
 - **Method for classifying a noisy Raman spectrum based on a wavelet transform and a deep neural network**  
   *L. Pan, P. Pipitsunthonsan, C. Daengngam, S. Channumsin, S. Sreesawet, ...*  
-  *IEEE Access 8, 202716-202727*   
+  *IEEE Access 8, 202716-202727*  **中科院三区，JCR 1区** 
 
 - **Classification of Hazardous Chemicals with Raman Spectrum by Convolution Neural Network**  
   *L. Pan, P. Pipitsunthonsan, M. Chongcheawchamnan*  
