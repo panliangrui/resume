@@ -64,7 +64,6 @@ On March 14, 2024, one of our articles was accepted by the **Computers in Biolog
 - **Optimization of the parallel semi-Lagrangian scheme to overlap computation with communication based on grouping levels in YHGSM**  
   *D. Liu, W. Liu, L. Pan, Y. Dou, J. Wu*  
   *CCF Transactions on High Performance Computing 6 (1), 68-77*
-
 ---
 
 ### 2023
@@ -84,5 +83,67 @@ On March 14, 2024, one of our articles was accepted by the **Computers in Biolog
   *L. Wang, L. Pan, H. Wang, M. Liu, Z. Feng, P. Rong, Z. Chen, S. Peng*  
   *Biomedical Signal Processing and Control 85, 104976*
 
+- **Palm bunch grading technique using a multi-input and multi-label convolutional neural network**  
+  *P. Pipitsunthonsan, L. Pan, S. Peng, T. Khaorapapong, S. Nakasathien, ...*  
+  *Computers and Electronics in Agriculture 210, 107864*  
+---
+
+## 2022
+- **MGTUNet: A new UNet for colon nuclei instance segmentation and quantification**  
+  *L. Pan, L. Wang, Z. Feng, Z. Xu, L. Xu, S. Peng*  
+  *2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*  
+
+- **Noise-reducing attention cross fusion learning transformer for histological image classification of osteosarcoma**  
+  *L. Pan, H. Wang, L. Wang, B. Ji, M. Liu, M. Chongcheawchamnan, J. Yuan, ...*  
+  *Biomedical Signal Processing and Control 77, 103824*   
+
+- **A review of machine learning approaches, challenges and prospects for computational tumor pathology**  
+  *L. Pan, Z. Feng, S. Peng*  
+  *arXiv preprint arXiv:2206.01728*   
+
+- **Hybrid Beamforming based on an Unsupervised Deep Learning Network for Downlink Channels with Imperfect CSI**  
+  *P. Zhang, L. Pan, T. Laohapensaeng, M. Chongcheawchamnan*  
+  *IEEE Wireless Communications Letters*   
+
+- **SMMDA: Predicting miRNA-Disease Associations by Incorporating Multiple Similarity Profiles and a Novel Disease Representation**  
+  *Bo-Ya Ji, Liang-Rui Pan, Ji-Ren Zhou, Zhu-Hong You, and Shao-Liang Peng*  
+  *Biology*   
+
+- **MFDNN: Multi-channel feature deep neural network algorithm to identify COVID19 chest X-ray images**  
+  *L. Pan, B. Ji, H. Wang, L. Wang, M. Liu, M. Chongcheawchamnan, S. Peng*  
+  *Health Information Science and Systems 10 (1), 4*   
+
+- **A review of artificial intelligence methods combined with Raman spectroscopy to identify the composition of substances**  
+  *L. Pan, P. Zhang, C. Daengngam, S. Peng, M. Chongcheawchamnan*  
+  *Journal of Raman Spectroscopy 53 (1), 6-19*  
+---
+
+## 2021
+- **DFL-PiDA: Prediction of Piwi-interacting RNA-disease associations based on deep feature learning**  
+  *B. Ji, J. Luo, L. Pan, X. Xie, S. Peng*  
+  *2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*   
+
+- **FEDI: Few-shot learning based on Earth Mover's Distance algorithm combined with deep residual network to identify diabetic retinopathy**  
+  *L. Pan, P. Zhang, F. Xia, B. Ji, W. Liu, H. Wang, Y. Jin, ...*  
+  *2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*   
+
+- **Identification of complex mixtures for Raman spectroscopy using a novel scheme based on a new multi-label deep neural network**  
+  *L. Pan, P. Pipitsunthonsan, C. Daengngam, S. Channumsin, S. Sreesawet, ...*  
+  *IEEE Sensors Journal 21 (9), 10834-10843*   
+---
+
+## 2020
+- **Noise Reduction Technique for Raman Spectrum using Deep Learning Network**  
+  *L. Pan, P. Pipitsunthonsan, P. Zhang, C. Daengngam, A. Booranawong, ...*  
+  *2020 13th International Symposium on Computational Intelligence and Design*   
+
+- **Method for classifying a noisy Raman spectrum based on a wavelet transform and a deep neural network**  
+  *L. Pan, P. Pipitsunthonsan, C. Daengngam, S. Channumsin, S. Sreesawet, ...*  
+  *IEEE Access 8, 202716-202727*   
+
+- **Classification of Hazardous Chemicals with Raman Spectrum by Convolution Neural Network**  
+  *L. Pan, P. Pipitsunthonsan, M. Chongcheawchamnan*  
+  *2020 13th International Conference on Human System Interaction (HSI), 24-28*  
+ 
 
 
