@@ -10,17 +10,27 @@ redirect_from:
 
 Liangrui Pan (Student Member, IEEE) was born in Anhui, China, in 1997. He is currently pursuing thePh.D’s degree in computer science with the Hunan University, China. His research interests include Artificial intelligence, Medical Image Analysis, Bioinformatics. He is also a member of the Chinese Society of Electrical Engineering. 
 
-In academic innovation, During my PhD (supervisor: [Shaoliang Peng](http://csee.hnu.edu.cn/people/pengshaoliang)) and master's degree (supervisor: [Mitchai Chongcheawchamnan](https://grad.psu.ac.th/en/faculty-staff/lecturer.html?tid=724)), I published and accepted a total of 20 high-level English papers, which were cited 250 times by [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-zSEPX0AAAAJ&view_op=list_works&sortby=pubdate). Among them, I have published a total of 30 articles as the first author and co-author in Nature communication, npj Precision Oncology, IEEE Sensors Journal, IEEE Wireless Communications Letters, Computers and Electronics in Agriculture, Biomedical Signal Processing and Control, Health Information Science and Systems, and Journal of Raman Spectroscopy; in CCF B Published 5 papers at IEEE BIBM; one of them received the highest number of downloads in the Journal of Raman Spectroscopy. Under the public review status, the tutor has 10 patents for his works, Authorize 1 software copyright.
+In academic innovation, During my PhD (supervisor: [Shaoliang Peng](http://csee.hnu.edu.cn/people/pengshaoliang)) and master's degree (supervisor: [Mitchai Chongcheawchamnan](https://grad.psu.ac.th/en/faculty-staff/lecturer.html?tid=724)), I published and accepted a total of 20 high-level English papers, which were cited 460 times by [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-zSEPX0AAAAJ&view_op=list_works&sortby=pubdate). Among them, I have published a total of 20 articles as the first author and co-author in Nature communication, Cancer Research, npj Precision Oncology, EAAI; USCAP; IJCAI (CCF A); BIBM (CCF B); one of them received the highest number of downloads in the Journal of Raman Spectroscopy. Under the public review status, the tutor has 10 patents for his works, Authorize 1 software copyright.
 
 **Email**:<u>panlr@hnu.edu.cn<u> or <u>lip141772@gmail.com<u>.
 
 News!
 ======
+On October 31, 2025, one of our abstract was accepted by **USCAP2026** conference.
+
+On October 20, 2025, one of our articles was accepted by **Cancer Research (JCR Q1)** journal!
+
+On October 5, 2025, one of our articles was accepted by **IEEE BIBM (CCF B)** conference.
+
+On April 29, 2025, one of our articles was accepted by **IJCAI2026 (CCF A)** conference!
+
+On March 1, 2025, one of our articles was accepted by **Engineering Applications of Artificial Intelligence (JCR Q1)** journal!
+
 On November 23, 2024, one of our articles was accepted by **npj Precision Oncology (JCR Q1)** journal!
 
 On October 23, 2024, one of our articles was accepted by **Computer Methods and Programs in Biomedicine (JCR Q1)** journal!
 
-On October 23, 2024, one of our articles was accepted by **Nature communication (JCR Q1)** journal! Paper is available online here https://doi.org/10.1038/s41467-024-52293-7 or as a PDF here https://www.nature.com/articles/s41467-024-52293-7.pdf!
+On October 23, 2024, one of our articles was accepted by **Nature communication (JCR Q1)** journal! 
 
 On October 14, 2024, 2 of our articles were accepted by **IEEE BIBM (CCF B)** conference.
 
@@ -28,15 +38,26 @@ On August 16, 2024, one of our articles was accepted by the **IEEE BIBM (CCF B)*
 
 On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journal!
 
-On March 14, 2024, one of our articles was accepted by the **Computers in Biology and Medicine (JCR Q1)** journal!
-
 
 # Publications
+## 2025
+
+- **DLiPath: A Benchmark for the Comprehensive Assessment of Donor Liver Based on Histopathological Image Dataset**
+  *Liangrui Pan, Xingchen Li, Zhongyi Chen, Ling Chu, Shaoliang Peng*  
+  *https://arxiv.org/abs/2506.03185* **CCF B**
+
+- **SMILE: a Scale-aware Multiple Instance Learning Method for Multicenter STAS Lung Cancer Histopathology Diagnosis**
+  *Liangrui Pan, Xiaoyu Li, Yutao Dou, Qiya Song, Jiadi Luo, Qingchun Liang, Shaoliang Peng*  
+  *https://www.ijcai.org/proceedings/2025/1093* **CCF A**
+  
+- **Application of deep learning-based multimodal fusion technology in cancer diagnosis: A survey**  
+  *Yan Li, Liangrui Pan, Yijun Peng, Xiaoyu Li, Xiang Wang, Limeng Qu, Qiya Song, Qingchun Liang, Shaoliang Peng*  
+  *https://doi.org/10.1016/j.engappai.2024.109972* **中科院一区，JCR 1区**
 
 ## 2024
 - **FedDP**: Privacy-preserving method based on federated learning for histopathology image segmentation  
   *L. Pan, M. Huang, L. Wang, P. Qin, S. Peng*  
-  *arXiv preprint arXiv:2411.04509* **CCF B**
+  *https://doi.org/10.1109/BIBM62325.2024.10822021* **CCF B**
 
 - **DEDUCE**: Multi-head attention decoupled contrastive learning to discover cancer subtypes based on multi-omics data  
   *L. Pan, X. Wang, Q. Liang, J. Shang, W. Liu, L. Xu, S. Peng*  
