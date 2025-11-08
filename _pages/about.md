@@ -10,7 +10,7 @@ redirect_from:
 
 Liangrui Pan (Student Member, IEEE) was born in Anhui, China, in 1997. He is currently pursuing thePh.D’s degree in computer science with the Hunan University, China. His research interests include Artificial intelligence, Medical Image Analysis, Bioinformatics. He is also a member of the Chinese Society of Electrical Engineering. 
 
-In academic innovation, During my PhD (supervisor: [Shaoliang Peng](http://csee.hnu.edu.cn/people/pengshaoliang)) and master's degree (supervisor: [Mitchai Chongcheawchamnan](https://grad.psu.ac.th/en/faculty-staff/lecturer.html?tid=724)), I published and accepted a total of 20 high-level English papers, which were cited 460 times by [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-zSEPX0AAAAJ&view_op=list_works&sortby=pubdate). Among them, I have published a total of 20 articles as the first author and co-author in Nature communication, Cancer Research, npj Precision Oncology, EAAI; USCAP; IJCAI (CCF A); BIBM (CCF B); one of them received the highest number of downloads in the Journal of Raman Spectroscopy. Under the public review status, the tutor has 10 patents for his works, Authorize 1 software copyright.
+In academic innovation, During my PhD (supervisor: [Shaoliang Peng](http://csee.hnu.edu.cn/people/pengshaoliang)) and master's degree (supervisor: [Mitchai Chongcheawchamnan](https://grad.psu.ac.th/en/faculty-staff/lecturer.html?tid=724)), I published and accepted a total of 20 high-level English papers, which were cited 460 times by [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-zSEPX0AAAAJ&view_op=list_works&sortby=pubdate). Among them, I have published a total of 20 articles as the first author and co-author in Nature communication, Cancer Research, npj Precision Oncology, EAAI; USCAP; IJCAI (CCF A); BIBM (CCF B); one of them received the highest number of downloads in the Journal of Raman Spectroscopy. Under the public review status, the tutor has 13 patents for his works, Authorize 2 software copyright.
 
 **Email**:<u>panlr@hnu.edu.cn<u> or <u>lip141772@gmail.com<u>.
 
@@ -52,12 +52,16 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
   
 - **Application of deep learning-based multimodal fusion technology in cancer diagnosis: A survey**  
   *Yan Li, Liangrui Pan, Yijun Peng, Xiaoyu Li, Xiang Wang, Limeng Qu, Qiya Song, Qingchun Liang, Shaoliang Peng*  
-  *https://doi.org/10.1016/j.engappai.2024.109972* **中科院一区，JCR 1区**
+  *https://doi.org/10.1016/j.engappai.2024.109972
+        
+        * **中科院一区，JCR 1区**
 
 ## 2024
 - **FedDP**: Privacy-preserving method based on federated learning for histopathology image segmentation  
   *L. Pan, M. Huang, L. Wang, P. Qin, S. Peng*  
-  *https://doi.org/10.1109/BIBM62325.2024.10822021* **CCF B**
+  *https://doi.org/10.1109/BIBM62325.2024.10822021
+        
+        * **CCF B**
 
 - **DEDUCE**: Multi-head attention decoupled contrastive learning to discover cancer subtypes based on multi-omics data  
   *L. Pan, X. Wang, Q. Liang, J. Shang, W. Liu, L. Xu, S. Peng*  
@@ -69,7 +73,9 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
 
 - **FORESEE**: Multimodal and Multi-view Representation Learning for Robust Prediction of Cancer Survival  
   *L. Pan, Y. Peng, Y. Li, Y. Liang, L. Xu, Q. Liang, S. Peng*  
-  *arXiv preprint arXiv:2405.07702*
+  *arXiv preprint arXiv:2405.07702
+        
+        *
 
 - **Attention-Based Two-Branch Hybrid Fusion Network for Medical Image Segmentation**  
   *J. Liu, S. Mao, L. Pan*  
