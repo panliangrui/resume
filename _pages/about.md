@@ -16,6 +16,8 @@ In academic innovation, During my PhD (supervisor: [Shaoliang Peng](http://csee.
 
 News!
 ======
+On February 26, 2026, one of our articles was accepted by **Nature communication (JCR Q1)** journal! 
+
 On October 31, 2025, one of our abstract was accepted by **USCAP2026** conference.
 
 On October 20, 2025, one of our articles was accepted by **Cancer Research (JCR Q1)** journal!
