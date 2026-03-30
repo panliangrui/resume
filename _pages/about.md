@@ -42,6 +42,10 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
 
 
 # Publications
+## 2026
+- **1645 A Multicenter Deep Learning Study for the Diagnosis of STAS in Histopathological Images of Lung Cancer Patients**
+  *Liangrui Pan, Jiadi Luo, Chenchen Nie, Songqing Fan, Qingchun Liang*  
+  *https://doi.org/10.1016/j.labinv.2025.105947* **JCR 1区**
 ## 2025
 
 - **DLiPath: A Benchmark for the Comprehensive Assessment of Donor Liver Based on Histopathological Image Dataset**
@@ -54,7 +58,7 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
   
 - **Application of deep learning-based multimodal fusion technology in cancer diagnosis: A survey**  
   *Yan Li, Liangrui Pan, Yijun Peng, Xiaoyu Li, Xiang Wang, Limeng Qu, Qiya Song, Qingchun Liang, Shaoliang Peng*  
-  *https://doi.org/10.1016/j.engappai.2024.109972* **中科院一区，JCR 1区**
+  *https://doi.org/10.1016/j.engappai.2024.109972* **JCR 1区**
 
 ## 2024
 - **FedDP**: Privacy-preserving method based on federated learning for histopathology image segmentation  
@@ -63,11 +67,11 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
 
 - **DEDUCE**: Multi-head attention decoupled contrastive learning to discover cancer subtypes based on multi-omics data  
   *L. Pan, X. Wang, Q. Liang, J. Shang, W. Liu, L. Xu, S. Peng*  
-  *Computer Methods and Programs in Biomedicine, 108478* **中科院二区，JCR 1区**
+  *Computer Methods and Programs in Biomedicine, 108478* **JCR 1区**
 
 - **Improving prediction performance of general protein language model by domain-adaptive pretraining on DNA-binding protein**  
   *W. Zeng, Y. Dou, L. Pan, L. Xu, S. Peng*  
-  *Nature Communications 15 (1), 7838* **中科院一区，JCR 1区**
+  *Nature Communications 15 (1), 7838* **JCR 1区**
 
 - **FORESEE**: Multimodal and Multi-view Representation Learning for Robust Prediction of Cancer Survival  
   *L. Pan, Y. Peng, Y. Li, Y. Liang, L. Xu, Q. Liang, S. Peng*  
@@ -75,7 +79,7 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
 
 - **Attention-Based Two-Branch Hybrid Fusion Network for Medical Image Segmentation**  
   *J. Liu, S. Mao, L. Pan*  
-  *Applied Sciences 14 (10), 4073* **中科院三区，JCR 1区**
+  *Applied Sciences 14 (10), 4073* **JCR 1区**
 
 - **Opportunities and challenges in the application of large artificial intelligence models in radiology**  
   *L. Pan, Z. Zhao, Y. Lu, K. Tang, L. Fu, Q. Liang, S. Peng*  
@@ -83,7 +87,7 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
 
 - **SELECTOR**: Heterogeneous graph network with convolutional masked autoencoder for multimodal robust prediction of cancer survival  
   *L. Pan, Y. Peng, Y. Li, X. Wang, W. Liu, L. Xu, Q. Liang, S. Peng*  
-  *Computers in Biology and Medicine 172, 108301* **中科院二区，JCR 1区**
+  *Computers in Biology and Medicine 172, 108301* **JCR 1区**
 
 - **Optimization of the parallel semi-Lagrangian scheme to overlap computation with communication based on grouping levels in YHGSM**  
   *D. Liu, W. Liu, L. Pan, Y. Dou, J. Wu*  
@@ -106,11 +110,11 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
 
 - **DHUnet**: Dual-branch hierarchical global–local fusion network for whole slide image segmentation  
   *L. Wang, L. Pan, H. Wang, M. Liu, Z. Feng, P. Rong, Z. Chen, S. Peng*  
-  *Biomedical Signal Processing and Control 85, 104976* **中科院二区，JCR 1区**
+  *Biomedical Signal Processing and Control 85, 104976* **JCR 1区**
 
 - **Palm bunch grading technique using a multi-input and multi-label convolutional neural network**  
   *P. Pipitsunthonsan, L. Pan, S. Peng, T. Khaorapapong, S. Nakasathien, ...*  
-  *Computers and Electronics in Agriculture 210, 107864*  **中科院一区，JCR 1区**
+  *Computers and Electronics in Agriculture 210, 107864*  **JCR 1区**
   
 ---
 
@@ -121,7 +125,7 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
 
 - **Noise-reducing attention cross fusion learning transformer for histological image classification of osteosarcoma**  
   *L. Pan, H. Wang, L. Wang, B. Ji, M. Liu, M. Chongcheawchamnan, J. Yuan, ...*  
-  *Biomedical Signal Processing and Control 77, 103824*  **中科院二区，JCR 1区** 
+  *Biomedical Signal Processing and Control 77, 103824*  **JCR 1区** 
 
 - **A review of machine learning approaches, challenges and prospects for computational tumor pathology**  
   *L. Pan, Z. Feng, S. Peng*  
@@ -129,19 +133,19 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
 
 - **Hybrid Beamforming based on an Unsupervised Deep Learning Network for Downlink Channels with Imperfect CSI**  
   *P. Zhang, L. Pan, T. Laohapensaeng, M. Chongcheawchamnan*  
-  *IEEE Wireless Communications Letters*  **中科院二区，JCR 1区** 
+  *IEEE Wireless Communications Letters*  **JCR 1区** 
 
 - **SMMDA: Predicting miRNA-Disease Associations by Incorporating Multiple Similarity Profiles and a Novel Disease Representation**  
   *Bo-Ya Ji, Liang-Rui Pan, Ji-Ren Zhou, Zhu-Hong You, and Shao-Liang Peng*  
-  *Biology*  **中科院三区，JCR 1区** 
+  *Biology*  **JCR 1区** 
 
 - **MFDNN: Multi-channel feature deep neural network algorithm to identify COVID19 chest X-ray images**  
   *L. Pan, B. Ji, H. Wang, L. Wang, M. Liu, M. Chongcheawchamnan, S. Peng*  
-  *Health Information Science and Systems 10 (1), 4*  **中科院三区，JCR 1区** 
+  *Health Information Science and Systems 10 (1), 4*  **JCR 1区** 
 
 - **A review of artificial intelligence methods combined with Raman spectroscopy to identify the composition of substances**  
   *L. Pan, P. Zhang, C. Daengngam, S. Peng, M. Chongcheawchamnan*  
-  *Journal of Raman Spectroscopy 53 (1), 6-19*  **中科院三区，JCR 2区**
+  *Journal of Raman Spectroscopy 53 (1), 6-19*  **JCR 2区**
   
 ---
 
@@ -156,7 +160,7 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
 
 - **Identification of complex mixtures for Raman spectroscopy using a novel scheme based on a new multi-label deep neural network**  
   *L. Pan, P. Pipitsunthonsan, C. Daengngam, S. Channumsin, S. Sreesawet, ...*  
-  *IEEE Sensors Journal 21 (9), 10834-10843*  **中科院二区，JCR 1区**
+  *IEEE Sensors Journal 21 (9), 10834-10843*  **JCR 1区**
   
 ---
 
@@ -167,7 +171,7 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
 
 - **Method for classifying a noisy Raman spectrum based on a wavelet transform and a deep neural network**  
   *L. Pan, P. Pipitsunthonsan, C. Daengngam, S. Channumsin, S. Sreesawet, ...*  
-  *IEEE Access 8, 202716-202727*  **中科院三区，JCR 1区** 
+  *IEEE Access 8, 202716-202727*  **JCR 1区** 
 
 - **Classification of Hazardous Chemicals with Raman Spectrum by Convolution Neural Network**  
   *L. Pan, P. Pipitsunthonsan, M. Chongcheawchamnan*  
