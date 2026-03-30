@@ -61,9 +61,7 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
 ## 2024
 - **FedDP**: Privacy-preserving method based on federated learning for histopathology image segmentation  
   *L. Pan, M. Huang, L. Wang, P. Qin, S. Peng*  
-  *https://doi.org/10.1109/BIBM62325.2024.10822021
-        
-        * **CCF B**
+  *https://doi.org/10.1109/BIBM62325.2024.10822021* **CCF B**
 
 - **DEDUCE**: Multi-head attention decoupled contrastive learning to discover cancer subtypes based on multi-omics data  
   *L. Pan, X. Wang, Q. Liang, J. Shang, W. Liu, L. Xu, S. Peng*  
@@ -75,9 +73,7 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
 
 - **FORESEE**: Multimodal and Multi-view Representation Learning for Robust Prediction of Cancer Survival  
   *L. Pan, Y. Peng, Y. Li, Y. Liang, L. Xu, Q. Liang, S. Peng*  
-  *arXiv preprint arXiv:2405.07702
-        
-        *
+  *arXiv preprint arXiv:2405.07702**
 
 - **Attention-Based Two-Branch Hybrid Fusion Network for Medical Image Segmentation**  
   *J. Liu, S. Mao, L. Pan*  
