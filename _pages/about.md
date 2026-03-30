@@ -54,9 +54,7 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
   
 - **Application of deep learning-based multimodal fusion technology in cancer diagnosis: A survey**  
   *Yan Li, Liangrui Pan, Yijun Peng, Xiaoyu Li, Xiang Wang, Limeng Qu, Qiya Song, Qingchun Liang, Shaoliang Peng*  
-  *https://doi.org/10.1016/j.engappai.2024.109972
-        
-        * **中科院一区，JCR 1区**
+  *https://doi.org/10.1016/j.engappai.2024.109972* **中科院一区，JCR 1区**
 
 ## 2024
 - **FedDP**: Privacy-preserving method based on federated learning for histopathology image segmentation  
