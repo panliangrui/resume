@@ -10,12 +10,14 @@ redirect_from:
 
 Liangrui Pan (Student Member, IEEE) was born in Anhui, China, in 1997. He is currently pursuing thePh.D’s degree in computer science with the Hunan University, China. His research interests include Artificial intelligence, Medical Image Analysis, Bioinformatics. He is also a member of the Chinese Society of Electrical Engineering. 
 
-In academic innovation, During my PhD (supervisor: [Shaoliang Peng](http://csee.hnu.edu.cn/people/pengshaoliang)) and master's degree (supervisor: [Mitchai Chongcheawchamnan](https://grad.psu.ac.th/en/faculty-staff/lecturer.html?tid=724)), I published and accepted a total of 20 high-level English papers, which were cited 460 times by [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-zSEPX0AAAAJ&view_op=list_works&sortby=pubdate). Among them, I have published a total of 20 articles as the first author and co-author in Nature communication, Cancer Research, npj Precision Oncology, EAAI; USCAP; IJCAI (CCF A); BIBM (CCF B); one of them received the highest number of downloads in the Journal of Raman Spectroscopy. Under the public review status, the tutor has 13 patents for his works, Authorize 2 software copyright.
+In academic innovation, During my PhD (supervisor: [Shaoliang Peng](http://csee.hnu.edu.cn/people/pengshaoliang)) and master's degree (supervisor: [Mitchai Chongcheawchamnan](https://grad.psu.ac.th/en/faculty-staff/lecturer.html?tid=724)), I published and accepted a total of 20 high-level English papers, which were cited 589 times by [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-zSEPX0AAAAJ&view_op=list_works&sortby=pubdate). Among them, I have published a total of 20 articles as the first author and co-author in Nature communication, Cancer Research, npj Precision Oncology, EAAI; USCAP; IJCAI (CCF A); BIBM (CCF B); one of them received the highest number of downloads in the Journal of Raman Spectroscopy. Under the public review status, the tutor has 13 patents for his works, Authorize 2 software copyright.
 
 **Email**:<u>panlr@hnu.edu.cn<u> or <u>lip141772@gmail.com<u>.
 
 News!
 ======
+On April 30, 2025, one of our articles was accepted by **IJCAI2026 (CCF B)** conference!
+
 On February 26, 2026, one of our articles was accepted by **Nature communication (JCR Q1)** journal! 
 
 On October 31, 2025, one of our abstract was accepted by **USCAP2026** conference.
@@ -24,7 +26,7 @@ On October 20, 2025, one of our articles was accepted by **Cancer Research (JCR 
 
 On October 5, 2025, one of our articles was accepted by **IEEE BIBM (CCF B)** conference.
 
-On April 29, 2025, one of our articles was accepted by **IJCAI2026 (CCF A)** conference!
+On April 29, 2025, one of our articles was accepted by **IJCAI2025 (CCF A)** conference!
 
 On March 1, 2025, one of our articles was accepted by **Engineering Applications of Artificial Intelligence (JCR Q1)** journal!
 
@@ -43,9 +45,14 @@ On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journ
 
 # Publications
 ## 2026
+- **1STAMP: Multi‑pattern Attention‑aware Multiple Instance Learning for STAS Diagnosis in Multi‑center Histopathology Images**
+  *Liangrui Pan, Xiaoyu Li, Chenchen Nie, Yaning Yang, Shaoliang Peng*  
+  ** **JCR 1区**
+
 - **1645 A Multicenter Deep Learning Study for the Diagnosis of STAS in Histopathological Images of Lung Cancer Patients**
   *Liangrui Pan, Jiadi Luo, Chenchen Nie, Songqing Fan, Qingchun Liang*  
   *https://doi.org/10.1016/j.labinv.2025.105947* **JCR 1区**
+  
 ## 2025
 - **DLiPath: A Benchmark for the Comprehensive Assessment of Donor Liver Based on Histopathological Image Dataset**
   *Liangrui Pan, Xingchen Li, Zhongyi Chen, Ling Chu, Shaoliang Peng*  
