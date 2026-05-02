@@ -16,31 +16,31 @@ In academic innovation, During my PhD (supervisor: [Shaoliang Peng](http://csee.
 
 News!
 ======
-On April 30, 2025, one of our articles was accepted by **IJCAI2026 (CCF B)** conference!
+On April 30, 2026, one of our conference was accepted by **IJCAI2026 (CCF B)** conference!
 
-On February 26, 2026, one of our articles was accepted by **Nature communication (JCR Q1)** journal! 
+On February 26, 2026, one of our article was accepted by **Nature communication (JCR Q1)** journal! 
 
 On October 31, 2025, one of our abstract was accepted by **USCAP2026** conference.
 
-On October 20, 2025, one of our articles was accepted by **Cancer Research (JCR Q1)** journal!
+On October 20, 2025, one of our article was accepted by **Cancer Research (JCR Q1)** journal!
 
-On October 5, 2025, one of our articles was accepted by **IEEE BIBM (CCF B)** conference.
+On October 5, 2025, one of our conference was accepted by **IEEE BIBM (CCF B)** conference.
 
-On April 29, 2025, one of our articles was accepted by **IJCAI2025 (CCF A)** conference!
+On April 29, 2025, one of our conference was accepted by **IJCAI2025 (CCF A)** conference!
 
-On March 1, 2025, one of our articles was accepted by **Engineering Applications of Artificial Intelligence (JCR Q1)** journal!
+On March 1, 2025, one of our review was accepted by **Engineering Applications of Artificial Intelligence (JCR Q1)** journal!
 
-On November 23, 2024, one of our articles was accepted by **npj Precision Oncology (JCR Q1)** journal!
+On November 23, 2024, one of our article was accepted by **npj Precision Oncology (JCR Q1)** journal!
 
-On October 23, 2024, one of our articles was accepted by **Computer Methods and Programs in Biomedicine (JCR Q1)** journal!
+On October 23, 2024, one of our article was accepted by **Computer Methods and Programs in Biomedicine (JCR Q1)** journal!
 
-On October 23, 2024, one of our articles was accepted by **Nature communication (JCR Q1)** journal! 
+On October 23, 2024, one of our article was accepted by **Nature communication (JCR Q1)** journal! 
 
-On October 14, 2024, 2 of our articles were accepted by **IEEE BIBM (CCF B)** conference.
+On October 14, 2024, 2 of our conferences were accepted by **IEEE BIBM (CCF B)** conference.
 
-On August 16, 2024, one of our articles was accepted by the **IEEE BIBM (CCF B)** conference.
+On August 16, 2024, one of our conference was accepted by the **IEEE BIBM (CCF B)** conference.
 
-On May 2, 2024, one of our articles was accepted by the **Meta-Radiology** journal!
+On May 2, 2024, one of our article was accepted by the **Meta-Radiology** journal!
 
 
 # Publications
