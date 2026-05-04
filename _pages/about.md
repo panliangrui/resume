@@ -45,7 +45,7 @@ On May 2, 2024, one of our article was accepted by the **Meta-Radiology** journa
 
 # Publications
 ## 2026
-- **1STAMP: Multi‑pattern Attention‑aware Multiple Instance Learning for STAS Diagnosis in Multi‑center Histopathology Images**
+- **STAMP: Multi‑pattern Attention‑aware Multiple Instance Learning for STAS Diagnosis in Multi‑center Histopathology Images**
   *Liangrui Pan, Xiaoyu Li, Chenchen Nie, Yaning Yang, Shaoliang Peng*  
   ** **JCR 1区**
 
