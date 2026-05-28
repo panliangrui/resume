@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Liangrui Pan (Student Member, IEEE) was born in Anhui, China, in 1997. He is currently pursuing thePh.D’s degree in computer science with the Hunan University, China. His research interests include Artificial intelligence, Medical Image Analysis, Bioinformatics. He is also a member of the Chinese Society of Electrical Engineering. 
+Liangrui Pan (Student Member, IEEE) was born in Anhui, China, in 1997. He received the Ph.D. degree in Electronic Information from the College of Computer Science, Hunan University, China, in June 2026. His research interests include artificial intelligence, medical image analysis, and bioinformatics. He is also a member of the China Computer Federation (CCF).
 
 In academic innovation, During my PhD (supervisor: [Shaoliang Peng](http://csee.hnu.edu.cn/people/pengshaoliang)) and master's degree (supervisor: [Mitchai Chongcheawchamnan](https://grad.psu.ac.th/language/en/direct-dean/)), I published and accepted a total of 20 high-level English papers, which were cited 589 times by [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-zSEPX0AAAAJ&view_op=list_works&sortby=pubdate). Among them, I have published a total of 20 articles as the first author and co-author in Nature communication, Cancer Research, npj Precision Oncology, EAAI; USCAP; IJCAI (CCF A); BIBM (CCF B); one of them received the highest number of downloads in the Journal of Raman Spectroscopy. Under the public review status, the tutor has 13 patents for his works, Authorize 2 software copyright.
 
