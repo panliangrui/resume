@@ -47,65 +47,65 @@ On May 2, 2024, one of our article was accepted by the **Meta-Radiology** journa
 ## 2026
 - **Diffusion attention expert model for predicting and semi-automatic localizing STAS in lung cancer histopathological images**
   *Pan, L., Luo, J., Xiao, Y. et al.*  
-  ** **JCR 1区**
+  *https://doi.org/10.1038/s41467-026-73786-7* **Nature communication, JCR 1区**
 
 - **STAMP: Multi‑pattern Attention‑aware Multiple Instance Learning for STAS Diagnosis in Multi‑center Histopathology Images**
   *Liangrui Pan, Xiaoyu Li, Chenchen Nie, Yaning Yang, Shaoliang Peng*  
-  ** **JCR 1区**
+  ** **IJCAI2026 (CCF B)**
 
 - **1645 A Multicenter Deep Learning Study for the Diagnosis of STAS in Histopathological Images of Lung Cancer Patients**
   *Liangrui Pan, Jiadi Luo, Chenchen Nie, Songqing Fan, Qingchun Liang*  
-  *https://doi.org/10.1016/j.labinv.2025.105947* **JCR 1区**
+  *https://doi.org/10.1016/j.labinv.2025.105947* **Laboratory Investigation, JCR 1区**
   
 ## 2025
 - **DLiPath: A Benchmark for the Comprehensive Assessment of Donor Liver Based on Histopathological Image Dataset**
   *Liangrui Pan, Xingchen Li, Zhongyi Chen, Ling Chu, Shaoliang Peng*  
-  *https://doi.org/10.1109/BIBM66473.2025.11356372* **CCF B**
+  *https://doi.org/10.1109/BIBM66473.2025.11356372* **BIBM, CCF B**
   
 - **MP-MIL: Multi-View Multiple Instance Learning with Positional Embedding to Predict PIK3CA Mutation**
   *Guanting Li, Liangrui Pan, Xiaoyu Li, Jiadi Luo, Qingchun Liang, Shaoliang Peng*  
-  *https://doi.org/10.1109/BIBM66473.2025.11357095* **CCF B**
+  *https://doi.org/10.1109/BIBM66473.2025.11357095* **BIBM, CCF B**
 
 - **GEMIL: A GELU-Enhanced Multiple-Instance Learning Model for Predicting Gene Mutations in Lung Cancer**
   *Haihua Zhu, Liangrui Pan, Christopher Wang, Jiadi Luo, Qingchun Liang, Shaoliang Peng*  
-  *https://doi.org/10.1109/BIBM66473.2025.11356955* **CCF B**
+  *https://doi.org/10.1109/BIBM66473.2025.11356955* **BIBM, CCF B**
 
 - **MSI-GNN: A Graph Neural Network for Pathogenicity Prediction of Microsatellite Insertions**
   *Yaning Yang, Yadong Fan, Yue Liu, Liangrui Pan, Shaoliang Peng*  
-  *https://doi.org/10.1109/BIBM66473.2025.11357143* **CCF B**
+  *https://doi.org/10.1109/BIBM66473.2025.11357143* **BIBM, CCF B**
 
 - **A Deep Learning Framework Integrating Tumor Microenvironmental Features Accurately Predicts Multiple Driver Gene Mutations in Lung Cancer Pathology Images**
   *Liangrui Pan, Jiadi Luo, Chenchen Nie, Songqing Fan, Xiang Wang, Shaoliang Peng, Qingchun Liang*  
-  *https://doi.org/10.1158/0008-5472.CAN-25-0582* **JCR 1区**
+  *https://doi.org/10.1158/0008-5472.CAN-25-0582* **Cancer Research, JCR 1区**
 
 - **SMILE: a Scale-aware Multiple Instance Learning Method for Multicenter STAS Lung Cancer Histopathology Diagnosis**
   *Liangrui Pan, Xiaoyu Li, Yutao Dou, Qiya Song, Jiadi Luo, Qingchun Liang, Shaoliang Peng*  
-  *https://www.ijcai.org/proceedings/2025/1093* **CCF A**
+  *https://www.ijcai.org/proceedings/2025/1093* **IJCAI2025, CCF A**
 
 - **Multi-level feature subgraph aggregation graph neural network**
   *Chengxin Xie, Qiya Song, Jingui Huang, Wei Chen, Liangrui Pan*  
-  *https://doi.org/10.1016/j.inffus.2025.103141* **JCR 1区**
+  *https://doi.org/10.1016/j.inffus.2025.103141* **Information Fusion, JCR 1区**
 
 - **Physics-preserved graph learning of differential equations for structural dynamics**
   *Yu Wang, Jinzhao Li, Xuan Kong, Weiwei He, Lu Deng, Liangrui Pan, Jiaqiang Peng*  
-  *https://doi.org/10.1016/j.ymssp.2025.112956* **JCR 1区**
+  *https://doi.org/10.1016/j.ymssp.2025.112956* **Mechanical Systems and Signal Processing, JCR 1区**
 
 - **Evaluating axillary lymph node metastasis risks in breast cancer patients via Semi-ALNP: a multicenter study**
   *Limeng Qu, Jinfeng Zhu, Xilong Mei, Zixi Yi, Na Luo, Songlin Yuan, Xuan Liu, Mingwen Liu, Haiqing Xie, Xiongqiang Hu, Liangrui Pan, Qingchun Liang, Yanhui Li, Qiongyan Zou, Qin Zhou, Danhua Zhang, Meirong Zhou, Lei Pei, Ke Qian, Qian Long, Qitong Chen, Xi Chen, Jennifer K Plichta, Qingyao Shang, Meishuo Ouyang, Jiachi Xu, Wenjun Yi*  
-  *https://doi.org/10.1016/j.eclinm.2025.103311* **JCR 1区**
+  *https://doi.org/10.1016/j.eclinm.2025.103311* **EClinicalMedicine, JCR 1区**
 
 - **A real-time system for monitoring and classification of human falls on stairs using 2.4 GHz XBee3 micro modules with a tri-axial accelerometer and KNN algorithms**
   *Apidet Booranawong, Sittiporn Sukveeraphan, Liangrui Pan, Nattha Jindapetch, Pornchai Phukpattaranont, Hiroshi Saito*  
-  *https://doi.org/10.1016/j.eij.2025.100643* **JCR 1区**
+  *https://doi.org/10.1016/j.eij.2025.100643* **Egyptian Informatics Journal, JCR 1区**
   
 - **Application of deep learning-based multimodal fusion technology in cancer diagnosis: A survey**  
   *Yan Li, Liangrui Pan, Yijun Peng, Xiaoyu Li, Xiang Wang, Limeng Qu, Qiya Song, Qingchun Liang, Shaoliang Peng*  
-  *https://doi.org/10.1016/j.engappai.2024.109972* **JCR 1区**
+  *https://doi.org/10.1016/j.engappai.2024.109972* **Engineering Applications of Artificial Intelligence, JCR 1区**
 
 ## 2024
 - **FedDP**: Privacy-preserving method based on federated learning for histopathology image segmentation  
   *L. Pan, M. Huang, L. Wang, P. Qin, S. Peng*  
-  *https://doi.org/10.1109/BIBM62325.2024.10822021* **CCF B**
+  *https://doi.org/10.1109/BIBM62325.2024.10822021* **BIBM, CCF B**
 
 - **DEDUCE**: Multi-head attention decoupled contrastive learning to discover cancer subtypes based on multi-omics data  
   *L. Pan, X. Wang, Q. Liang, J. Shang, W. Liu, L. Xu, S. Peng*  
