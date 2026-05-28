@@ -142,36 +142,36 @@ On May 2, 2024, one of our article was accepted by the **Meta-Radiology** journa
 ---
 
 ## 2023
-- **PACS**: Prediction and analysis of cancer subtypes from multi-omics data based on a multi-head attention mechanism model  
+- **PACS: Prediction and analysis of cancer subtypes from multi-omics data based on a multi-head attention mechanism model**  
   *L. Pan, P. Qin, P. Rong, X. Zeng, D. Liu, S. Peng*  
-  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* **BIBM, CCF B**
+  *https://doi.org/10.1109/BIBM58861.2023.10386066* **BIBM, CCF B**
 
-- **LDCSF**: Local depth convolution-based Swim framework for classifying multi-label histopathology images  
+- **LDCSF: Local depth convolution-based Swim framework for classifying multi-label histopathology images**  
   *L. Pan, G. Chen, W. Liu, L. Xu, X. Liu, S. Peng*  
-  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* **BIBM, CCF B**
+  *https://doi.org/10.1109/BIBM58861.2023.10385465* **BIBM, CCF B**
 
-- **Cvfc**: Attention-based cross-view feature consistency for weakly supervised semantic segmentation of pathology images  
+- **Cvfc: Attention-based cross-view feature consistency for weakly supervised semantic segmentation of pathology images**  
   *L. Pan, K. Li, W. Liu, L. Xu, Z. Feng, S. Peng*  
-  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* **BIBM, CCF B**
+  *https://doi.org/10.1109/BIBM58861.2023.10385357* **BIBM, CCF B**
 
-- **DHUnet**: Dual-branch hierarchical global–local fusion network for whole slide image segmentation  
+- **DHUnet: Dual-branch hierarchical global–local fusion network for whole slide image segmentation**  
   *L. Wang, L. Pan, H. Wang, M. Liu, Z. Feng, P. Rong, Z. Chen, S. Peng*  
-  *Biomedical Signal Processing and Control 85, 104976* **JCR 1区**
+  *https://doi.org/10.1016/j.bspc.2023.104976* **Biomedical Signal Processing and Control, JCR 1区**
 
 - **Palm bunch grading technique using a multi-input and multi-label convolutional neural network**  
   *P. Pipitsunthonsan, L. Pan, S. Peng, T. Khaorapapong, S. Nakasathien, ...*  
-  *Computers and Electronics in Agriculture 210, 107864*  **JCR 1区**
+  *https://doi.org/10.1016/j.compag.2023.107864*  **Computers and Electronics in Agriculture, JCR 1区**
   
 ---
 
 ## 2022
 - **MGTUNet: A new UNet for colon nuclei instance segmentation and quantification**  
   *L. Pan, L. Wang, Z. Feng, Z. Xu, L. Xu, S. Peng*  
-  *2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*  **CCF B**
+  *https://doi.org/10.1109/BIBM55620.2022.9995669*  **BIBM, CCF B**
 
 - **Noise-reducing attention cross fusion learning transformer for histological image classification of osteosarcoma**  
   *L. Pan, H. Wang, L. Wang, B. Ji, M. Liu, M. Chongcheawchamnan, J. Yuan, ...*  
-  *Biomedical Signal Processing and Control 77, 103824*  **JCR 1区** 
+  *https://doi.org/10.1016/j.bspc.2022.103824*  **Biomedical Signal Processing and Control, JCR 1区** 
 
 - **A review of machine learning approaches, challenges and prospects for computational tumor pathology**  
   *L. Pan, Z. Feng, S. Peng*  
@@ -179,19 +179,19 @@ On May 2, 2024, one of our article was accepted by the **Meta-Radiology** journa
 
 - **Hybrid Beamforming based on an Unsupervised Deep Learning Network for Downlink Channels with Imperfect CSI**  
   *P. Zhang, L. Pan, T. Laohapensaeng, M. Chongcheawchamnan*  
-  *IEEE Wireless Communications Letters*  **JCR 1区** 
+  *https://doi.org/10.1109/LWC.2022.3179362*  **IEEE Wireless Communications Letters, JCR 1区** 
 
 - **SMMDA: Predicting miRNA-Disease Associations by Incorporating Multiple Similarity Profiles and a Novel Disease Representation**  
   *Bo-Ya Ji, Liang-Rui Pan, Ji-Ren Zhou, Zhu-Hong You, and Shao-Liang Peng*  
-  *Biology*  **JCR 1区** 
+  *https://doi.org/10.3390/biology11050777*  **Biology, JCR 1区** 
 
 - **MFDNN: Multi-channel feature deep neural network algorithm to identify COVID19 chest X-ray images**  
   *L. Pan, B. Ji, H. Wang, L. Wang, M. Liu, M. Chongcheawchamnan, S. Peng*  
-  *Health Information Science and Systems 10 (1), 4*  **JCR 1区** 
+  *https://doi.org/10.1007/s13755-022-00174-y*  **Health Information Science and Systems, JCR 1区** 
 
 - **A review of artificial intelligence methods combined with Raman spectroscopy to identify the composition of substances**  
   *L. Pan, P. Zhang, C. Daengngam, S. Peng, M. Chongcheawchamnan*  
-  *Journal of Raman Spectroscopy 53 (1), 6-19*  **JCR 2区**
+  *https://doi.org/10.1002/jrs.6225*  **Journal of Raman Spectroscopy, JCR 2区**
   
 ---
 
