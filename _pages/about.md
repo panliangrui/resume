@@ -103,29 +103,33 @@ On May 2, 2024, one of our article was accepted by the **Meta-Radiology** journa
   *https://doi.org/10.1016/j.engappai.2024.109972* **Engineering Applications of Artificial Intelligence, JCR 1区**
 
 ## 2024
-- **FedDP**: Privacy-preserving method based on federated learning for histopathology image segmentation  
+- **Feature-interactive Siamese graph encoder-based image analysis to predict STAS from histopathology images in lung cancer**  
+  *Liangrui Pan, Qingchun Liang, Wenwu Zeng, Yijun Peng, Zhenyu Zhao, Yiyi Liang, Jiadi Luo, Xiang Wang & Shaoliang Peng*  
+  *https://doi.org/10.1038/s41698-024-00771-y* **npj precision oncology, JCR 1区**
+
+- **FedDP: Privacy-preserving method based on federated learning for histopathology image segmentation**  
   *L. Pan, M. Huang, L. Wang, P. Qin, S. Peng*  
   *https://doi.org/10.1109/BIBM62325.2024.10822021* **BIBM, CCF B**
 
-- **DEDUCE**: Multi-head attention decoupled contrastive learning to discover cancer subtypes based on multi-omics data  
+- **DEDUCE: Multi-head attention decoupled contrastive learning to discover cancer subtypes based on multi-omics data**  
   *L. Pan, X. Wang, Q. Liang, J. Shang, W. Liu, L. Xu, S. Peng*  
-  *Computer Methods and Programs in Biomedicine, 108478* **JCR 1区**
+  *https://doi.org/10.1016/j.cmpb.2024.108478* **Computer Methods and Programs in Biomedicine, JCR 1区**
 
 - **Improving prediction performance of general protein language model by domain-adaptive pretraining on DNA-binding protein**  
   *W. Zeng, Y. Dou, L. Pan, L. Xu, S. Peng*  
-  *Nature Communications 15 (1), 7838* **JCR 1区**
+  *Nature Communications 15 (1), 7838* **Nature Communications, JCR 1区**
 
-- **FORESEE**: Multimodal and Multi-view Representation Learning for Robust Prediction of Cancer Survival  
+- **FORESEE: Multimodal and Multi-view Representation Learning for Robust Prediction of Cancer Survival**  
   *L. Pan, Y. Peng, Y. Li, Y. Liang, L. Xu, Q. Liang, S. Peng*  
   *arXiv preprint arXiv:2405.07702**
 
 - **Attention-Based Two-Branch Hybrid Fusion Network for Medical Image Segmentation**  
   *J. Liu, S. Mao, L. Pan*  
-  *Applied Sciences 14 (10), 4073* **JCR 1区**
+  *Applied Sciences 14 (10), 4073* **Applied Sciences, JCR 1区**
 
 - **Opportunities and challenges in the application of large artificial intelligence models in radiology**  
   *L. Pan, Z. Zhao, Y. Lu, K. Tang, L. Fu, Q. Liang, S. Peng*  
-  *Meta-Radiology, 100080* **JCR 1区**
+  *https://doi.org/10.1016/j.metrad.2024.100080* **Meta-Radiology, JCR 1区**
 
 - **SELECTOR**: Heterogeneous graph network with convolutional masked autoencoder for multimodal robust prediction of cancer survival  
   *L. Pan, Y. Peng, Y. Li, X. Wang, W. Liu, L. Xu, Q. Liang, S. Peng*  
