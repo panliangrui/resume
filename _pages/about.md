@@ -117,7 +117,7 @@ On May 2, 2024, one of our article was accepted by the **Meta-Radiology** journa
 
 - **Improving prediction performance of general protein language model by domain-adaptive pretraining on DNA-binding protein**  
   *W. Zeng, Y. Dou, L. Pan, L. Xu, S. Peng*  
-  *Nature Communications 15 (1), 7838* **Nature Communications, JCR 1区**
+  *https://doi.org/10.1038/s41467-024-52293-7* **Nature Communications, JCR 1区**
 
 - **FORESEE: Multimodal and Multi-view Representation Learning for Robust Prediction of Cancer Survival**  
   *L. Pan, Y. Peng, Y. Li, Y. Liang, L. Xu, Q. Liang, S. Peng*  
@@ -125,7 +125,7 @@ On May 2, 2024, one of our article was accepted by the **Meta-Radiology** journa
 
 - **Attention-Based Two-Branch Hybrid Fusion Network for Medical Image Segmentation**  
   *J. Liu, S. Mao, L. Pan*  
-  *Applied Sciences 14 (10), 4073* **Applied Sciences, JCR 1区**
+  *https://doi.org/10.3390/app14104073* **Applied Sciences, JCR 1区**
 
 - **Opportunities and challenges in the application of large artificial intelligence models in radiology**  
   *L. Pan, Z. Zhao, Y. Lu, K. Tang, L. Fu, Q. Liang, S. Peng*  
@@ -133,26 +133,26 @@ On May 2, 2024, one of our article was accepted by the **Meta-Radiology** journa
 
 - **SELECTOR**: Heterogeneous graph network with convolutional masked autoencoder for multimodal robust prediction of cancer survival  
   *L. Pan, Y. Peng, Y. Li, X. Wang, W. Liu, L. Xu, Q. Liang, S. Peng*  
-  *Computers in Biology and Medicine 172, 108301* **JCR 1区**
+  *https://doi.org/10.1016/j.compbiomed.2024.108301* **Computers in Biology and Medicine, JCR 1区**
 
 - **Optimization of the parallel semi-Lagrangian scheme to overlap computation with communication based on grouping levels in YHGSM**  
   *D. Liu, W. Liu, L. Pan, Y. Dou, J. Wu*  
-  *CCF Transactions on High Performance Computing 6 (1), 68-77*  **JCR 3区**
+  *https://doi.org/10.1007/s42514-023-00163-x*  **CCF Transactions on High Performance Computing, JCR 3区**
   
 ---
 
 ## 2023
 - **PACS**: Prediction and analysis of cancer subtypes from multi-omics data based on a multi-head attention mechanism model  
   *L. Pan, P. Qin, P. Rong, X. Zeng, D. Liu, S. Peng*  
-  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* **CCF B**
+  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* **BIBM, CCF B**
 
 - **LDCSF**: Local depth convolution-based Swim framework for classifying multi-label histopathology images  
   *L. Pan, G. Chen, W. Liu, L. Xu, X. Liu, S. Peng*  
-  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* **CCF B**
+  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* **BIBM, CCF B**
 
 - **Cvfc**: Attention-based cross-view feature consistency for weakly supervised semantic segmentation of pathology images  
   *L. Pan, K. Li, W. Liu, L. Xu, Z. Feng, S. Peng*  
-  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* **CCF B**
+  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* **BIBM, CCF B**
 
 - **DHUnet**: Dual-branch hierarchical global–local fusion network for whole slide image segmentation  
   *L. Wang, L. Pan, H. Wang, M. Liu, Z. Feng, P. Rong, Z. Chen, S. Peng*  
