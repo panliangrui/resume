@@ -198,30 +198,30 @@ On May 2, 2024, one of our article was accepted by the **Meta-Radiology** journa
 ## 2021
 - **DFL-PiDA: Prediction of Piwi-interacting RNA-disease associations based on deep feature learning**  
   *B. Ji, J. Luo, L. Pan, X. Xie, S. Peng*  
-  *2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*  **CCF B** 
+  *https://doi.org/10.1109/BIBM52615.2021.9669793*  **BIBM, CCF B** 
 
 - **FEDI: Few-shot learning based on Earth Mover's Distance algorithm combined with deep residual network to identify diabetic retinopathy**  
   *L. Pan, P. Zhang, F. Xia, B. Ji, W. Liu, H. Wang, Y. Jin, ...*  
-  *2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*  **CCF B** 
+  *https://doi.org/10.1109/BIBM52615.2021.9669547*  **BIBM, CCF B** 
 
 - **Identification of complex mixtures for Raman spectroscopy using a novel scheme based on a new multi-label deep neural network**  
   *L. Pan, P. Pipitsunthonsan, C. Daengngam, S. Channumsin, S. Sreesawet, ...*  
-  *IEEE Sensors Journal 21 (9), 10834-10843*  **JCR 1区**
+  *https://doi.org/10.1109/JSEN.2021.3059849*  **IEEE Sensors Journal, JCR 1区**
   
 ---
 
 ## 2020
 - **Noise Reduction Technique for Raman Spectrum using Deep Learning Network**  
   *L. Pan, P. Pipitsunthonsan, P. Zhang, C. Daengngam, A. Booranawong, ...*  
-  *2020 13th International Symposium on Computational Intelligence and Design*   
+  *https://doi.org/10.1109/ISCID51228.2020.00042* **ISCID**
 
 - **Method for classifying a noisy Raman spectrum based on a wavelet transform and a deep neural network**  
   *L. Pan, P. Pipitsunthonsan, C. Daengngam, S. Channumsin, S. Sreesawet, ...*  
-  *IEEE Access 8, 202716-202727*  **JCR 1区** 
+  *https://doi.org/10.1109/ACCESS.2020.3035884*  **IEEE Access, JCR 1区** 
 
 - **Classification of Hazardous Chemicals with Raman Spectrum by Convolution Neural Network**  
   *L. Pan, P. Pipitsunthonsan, M. Chongcheawchamnan*  
-  *2020 13th International Conference on Human System Interaction (HSI), 24-28*  
+  *https://doi.org/10.1109/HSI49210.2020.9142632* **HSI** 
  
 # Chinese Patent
 
