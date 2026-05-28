@@ -45,6 +45,10 @@ On May 2, 2024, one of our article was accepted by the **Meta-Radiology** journa
 
 # Publications
 ## 2026
+- **Diffusion attention expert model for predicting and semi-automatic localizing STAS in lung cancer histopathological images**
+  *Pan, L., Luo, J., Xiao, Y. et al.*  
+  ** **JCR 1区**
+
 - **STAMP: Multi‑pattern Attention‑aware Multiple Instance Learning for STAS Diagnosis in Multi‑center Histopathology Images**
   *Liangrui Pan, Xiaoyu Li, Chenchen Nie, Yaning Yang, Shaoliang Peng*  
   ** **JCR 1区**
