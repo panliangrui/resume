@@ -7,10 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Liangrui Pan is a Research Fellow at Nanyang Technological University (NTU), Singapore, and holds a Ph.D. from the College of Computer Science and Electronic Engineering at Hunan University. His/Her research interests focus on medical image analysis, bioinformatics, big data, and artificial intelligence.
 
-Liangrui Pan (Student Member, IEEE) was born in Anhui, China, in 1997. He received the Ph.D. degree in Electronic Information from the College of Computer Science, Hunan University, China, in June 2026. His research interests include artificial intelligence, medical image analysis, and bioinformatics. He is also a member of the China Computer Federation (CCF).
+As the first author, [He/She] has published over 22 SCI-indexed papers in top-tier international journals and conferences, including Nature Communications (IF=18.1, Nature Index journal), Cancer Research (IF=22.6, Nature Index journal), npj Precision Oncology, Engineering Applications of Artificial Intelligence, Computer Methods and Programs in Biomedicine, and Biomedical Signal Processing and Control, as well as CCF-A conference (IJCAI 2025) and CCF-B conference (BIBM). These publications have garnered 623 citations on Google Scholar.
 
-In academic innovation, During my PhD (supervisor: [Shaoliang Peng](http://csee.hnu.edu.cn/people/pengshaoliang)) and master's degree (supervisor: [Mitchai Chongcheawchamnan](https://scholar.google.com/citations?hl=zh-CN&user=NuZPasMAAAAJ&view_op=list_works&sortby=pubdate)), I published and accepted a total of 20 high-level English papers, which were cited 612 times by [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-zSEPX0AAAAJ&view_op=list_works&sortby=pubdate). Among them, I have published a total of 20 articles as the first author and co-author in Nature Communication, Cancer Research, npj Precision Oncology, EAAI; USCAP; IJCAI (CCF A); BIBM (CCF B); one of them received the highest number of downloads in the Journal of Raman Spectroscopy. Under the public review status, the tutor has 13 patents for his works, Authorize 2 software copyright. Honored with the Outstanding Graduate Student of Hunan University (2024, 2025), National Scholarship for Doctoral Students (2025), Outstanding Graduate of Hunan University (2026), and Outstanding Graduate of Hunan Province (2026).
+Furthermore, he has 13 patent applications currently under public substantive review, 7 granted patents, and holds 2 granted software copyrights. His honors and awards include the Outstanding Graduate Student of Hunan University (2024, 2025), the National Scholarship for Doctoral Students (2025), the Outstanding Graduate of Hunan University (2026), and the Outstanding Graduate of Hunan Province (2026).
+
+
+新加坡南洋理工大学博士后，湖南大学计算机学院博士。研究方向为医学图像分析，生物信息，大数据，人工智能。曾以第一作者身份在 Nature Communications（IF=18.1，Nature
+Index 期刊）,Cancer Research（IF=22.6，Nature Index 期刊）, npj precision oncology, Engineering Applications of Artiﬁcial Intelligence, Computer Methods
+and Programs in Biomedicine, Biomedical Signal Processing and Control 等国际顶级期刊,CCF A 类会议（IJCAI 2025）和 CCF B 类会议（BIBM）发表 SCI 论文 22 余篇，Google 引用 623次。在公开实审状态下，申请专利 13 项，授权7项。授权 2 项软件著作权。荣获湖南大学优秀研究生（2024，2025），博士研究生国家奖学金（2025），湖南大学优秀毕业研究生（2026），湖南省优秀毕业研究生（2026）。
 
 **Email**:<u>panlr@hnu.edu.cn<u> or <u>lip141772@gmail.com<u>.
 
