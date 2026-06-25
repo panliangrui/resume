@@ -14,7 +14,7 @@ As the first author, [He/She] has published over 22 SCI-indexed papers in top-ti
 Furthermore, he has 13 patent applications currently under public substantive review, 7 granted patents, and holds 2 granted software copyrights. His honors and awards include the Outstanding Graduate Student of Hunan University (2024, 2025), the National Scholarship for Doctoral Students (2025), the Outstanding Graduate of Hunan University (2026), and the Outstanding Graduate of Hunan Province (2026).
 
 
-新加坡南洋理工大学博士后，湖南大学计算机学院博士。研究方向为医学图像分析，生物信息，大数据，人工智能。曾以第一作者身份在 Nature Communications（IF=18.1，Nature
+新加坡南洋理工大学研究员，湖南大学计算机学院博士。研究方向为医学图像分析，生物信息，大数据，人工智能。曾以第一作者身份在 Nature Communications（IF=18.1，Nature
 Index 期刊）,Cancer Research（IF=22.6，Nature Index 期刊）, npj precision oncology, Engineering Applications of Artiﬁcial Intelligence, Computer Methods
 and Programs in Biomedicine, Biomedical Signal Processing and Control 等国际顶级期刊,CCF A 类会议（IJCAI 2025）和 CCF B 类会议（BIBM）发表 SCI 论文 22 余篇，Google 引用 623次。在公开实审状态下，申请专利 13 项，授权7项。授权 2 项软件著作权。荣获湖南大学优秀研究生（2024，2025），博士研究生国家奖学金（2025），湖南大学优秀毕业研究生（2026），湖南省优秀毕业研究生（2026）。
 
