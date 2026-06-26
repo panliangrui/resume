@@ -15,7 +15,7 @@ Furthermore, he has 13 patent applications currently under public substantive re
 
 
 新加坡南洋理工大学研究员，湖南大学计算机学院博士。研究方向为医学图像分析，生物信息，大数据，人工智能。曾以第一作者身份在 Nature Communications（IF=18.1，Nature
-Index 期刊）,Cancer Research（IF=22.6，Nature Index 期刊）, npj precision oncology（IF=10）, Engineering Applications of Artiﬁcial Intelligence, Computer Methods and Programs in Biomedicine, Biomedical Signal Processing and Control 等国际顶级期刊,CCF A 类会议（IJCAI 2025）和 CCF B 类会议（BIBM）发表 SCI 论文 22 余篇，Google 引用 623次。在公开实审状态下，申请专利 13 项，授权7项。授权 2 项软件著作权。荣获湖南大学优秀研究生（2024，2025），博士研究生国家奖学金（2025），湖南大学优秀毕业研究生（2026），湖南省优秀毕业研究生（2026）。
+Index 期刊）,Cancer Research（IF=22.6，Nature Index 期刊）, npj precision oncology（IF=10）, Meta-Radiology（IF=13.3）,Engineering Applications of Artiﬁcial Intelligence, Computer Methods and Programs in Biomedicine, Biomedical Signal Processing and Control 等国际顶级期刊,CCF A 类会议（IJCAI 2025）和 CCF B 类会议（BIBM）发表 SCI 论文 22 余篇，Google 引用 623次。在公开实审状态下，申请专利 13 项，授权7项。授权 2 项软件著作权。荣获湖南大学优秀研究生（2024，2025），博士研究生国家奖学金（2025），湖南大学优秀毕业研究生（2026），湖南省优秀毕业研究生（2026）。
 
 **Email**:<u>panlr@hnu.edu.cn<u> or <u>lip141772@gmail.com<u>.
 
