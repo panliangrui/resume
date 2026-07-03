@@ -2,319 +2,334 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+<meta content="width=device-width, initial-scale=1.0, viewport-fit=cover" name="viewport"/>
 <link href="myIcon.ico" rel="shortcut icon"/>
-<meta content="Liangrui Pan, Pan Liangrui, 潘良睿, Nanyang Technological University, NTU Singapore, College of Computing and Data Science, Hunan University, Medical AI, Computational Pathology, Multimodal Learning, Bioinformatics" name="keywords"/>
+<meta content="Liangrui Pan, Pan Liangrui, 潘良睿, Hunan University, Medical AI, Computational Pathology, Multimodal Learning, Bioinformatics" name="keywords"/>
 <meta content="Liangrui Pan's academic homepage" name="description"/>
-<link href="jemdoc.css" rel="stylesheet" type="text/css"/>
+
 <title>Liangrui Pan's Homepage | NTU Singapore</title>
-<style type="text/css">
-    :root {
-      --text: #222;
-      --muted: #666;
-      --link: #1a5fb4;
-      --border: #d8dee8;
-      --panel: #f7f9fc;
-      --first-bg: #e8f1ff;
-      --first-text: #174f91;
-      --corr-bg: #fff0e6;
-      --corr-text: #9a4314;
-      --co-bg: #f0f2f5;
-      --co-text: #555;
-      --page-gutter: clamp(12px, 3.2vw, 28px);
-    }
 
-    html {
-      box-sizing: border-box;
-      width: 100%;
-      min-width: 0;
-      -webkit-text-size-adjust: 100%;
-      text-size-adjust: 100%;
-      scroll-behavior: smooth;
-    }
+<meta content="#f5f7fb" name="theme-color"/><style type="text/css">
+:root {
+  --page-bg: #f5f7fb;
+  --surface: #ffffff;
+  --text: #20252b;
+  --muted: #5f6b78;
+  --heading: #183b63;
+  --link: #145da0;
+  --institution: #1f4e79;
+  --border: #dbe3ec;
+  --panel: #f7f9fc;
+  --shadow: 0 10px 28px rgba(22, 48, 78, 0.08);
+  --first-bg: #e8f1ff;
+  --first-text: #174f91;
+  --corr-bg: #fff0e6;
+  --corr-text: #9a4314;
+  --co-bg: #f0f2f5;
+  --co-text: #555;
+}
 
-    *, *::before, *::after { box-sizing: inherit; }
+html {
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  scroll-behavior: smooth;
+  font-size: clamp(15px, 0.18vw + 14.5px, 17px);
+}
 
-    body {
-      width: 100%;
-      min-width: 0;
-      margin: 0;
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: clamp(15px, 0.25vw + 14px, 17px);
-      color: var(--text);
-      line-height: 1.62;
-      overflow-x: hidden;
-      overflow-wrap: anywhere;
-      background: #fff;
-    }
+*, *::before, *::after { box-sizing: inherit; }
 
-    a {
-      color: var(--link);
-      overflow-wrap: anywhere;
-      word-break: break-word;
-    }
+body {
+  margin: 0;
+  min-width: 0;
+  color: var(--text);
+  background: var(--page-bg);
+  font-family: Arial, Helvetica, "Segoe UI", sans-serif;
+  font-size: 1rem;
+  line-height: 1.64;
+  overflow-x: hidden;
+  overflow-wrap: anywhere;
+}
 
-    img, svg, video, canvas {
-      display: block;
-      max-width: 100%;
-      height: auto;
-    }
+img, svg, video { max-width: 100%; height: auto; }
 
-    #layout-content {
-      width: min(100% - 2 * var(--page-gutter), 1020px);
-      min-width: 0;
-      margin: clamp(14px, 3vw, 28px) auto 0;
-      padding: 0 0 30px;
-    }
+a {
+  color: var(--link);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+a:hover { text-decoration-thickness: 2px; }
 
-    .profile-header {
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) auto;
-      align-items: start;
-      gap: clamp(22px, 4vw, 52px);
-      width: 100%;
-      margin-bottom: 20px;
-    }
+#layout-content {
+  width: min(100% - 32px, 1040px);
+  margin: clamp(14px, 3vw, 34px) auto;
+  padding: clamp(18px, 3vw, 38px);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+}
 
-    .profile-main { min-width: 0; }
+.profile-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(150px, 190px);
+  gap: clamp(22px, 4vw, 52px);
+  align-items: start;
+  margin-bottom: 24px;
+}
 
-    #toptitle h1 {
-      margin: 0 0 4px;
-      font-size: clamp(1.85rem, 4vw, 2.65rem);
-      line-height: 1.12;
-    }
+.profile-main { min-width: 0; }
+.profile-name { margin-bottom: 12px; }
+.profile-name h1 {
+  margin: 0;
+  color: var(--heading);
+  font-size: clamp(1.9rem, 3.8vw, 2.85rem);
+  line-height: 1.12;
+  letter-spacing: -0.025em;
+}
+.profile-name h1 + h1 {
+  margin-top: 3px;
+  font-size: clamp(1.62rem, 3vw, 2.3rem);
+}
 
-    .position-title {
-      margin: 14px 0 5px;
-      font-size: clamp(1.08rem, 2vw, 1.25rem);
-      line-height: 1.35;
-    }
+.position {
+  margin: 6px 0 10px;
+  color: var(--text);
+  font-size: clamp(1.08rem, 1.6vw, 1.27rem);
+  font-weight: 700;
+}
 
-    .affiliation {
-      margin: 0 0 14px;
-      line-height: 1.52;
-    }
+.affiliation {
+  margin: 0 0 13px;
+  color: var(--institution);
+  font-weight: 650;
+  line-height: 1.52;
+}
+.affiliation a,
+.affiliation span {
+  color: inherit;
+}
+.affiliation a { text-decoration: none; }
+.affiliation a:hover { text-decoration: underline; }
+.affiliation-line { display: block; }
 
-    .affiliation a {
-      font-weight: 600;
-      text-decoration: none;
-    }
+.contact-line {
+  margin: 9px 0 13px;
+  color: var(--text);
+}
+.contact-line a {
+  color: var(--link);
+  font-weight: 600;
+  white-space: normal;
+  word-break: break-word;
+}
+.email-separator { color: var(--muted); margin: 0 0.35rem; }
 
-    .affiliation a:hover { text-decoration: underline; }
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 9px 13px;
+  margin: 12px 0 0;
+}
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 32px;
+  margin: 0;
+  white-space: nowrap;
+}
+.social-links img {
+  width: auto;
+  height: 29px;
+  border: 0;
+}
 
-    .contact-line {
-      margin: 10px 0 12px;
-      line-height: 1.55;
-    }
+.profile-photo-wrap { text-align: right; }
+.profile-photo {
+  display: block;
+  width: clamp(150px, 18vw, 185px);
+  aspect-ratio: 9 / 11;
+  margin-left: auto;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  box-shadow: 0 6px 18px rgba(20, 46, 74, 0.15);
+  background: #eef2f6;
+}
 
-    .contact-line a {
-      white-space: normal;
-      word-break: break-word;
-    }
+h2 {
+  margin: 1.7em 0 0.65em;
+  padding-bottom: 0.28em;
+  color: var(--heading);
+  font-size: clamp(1.34rem, 2vw, 1.62rem);
+  line-height: 1.25;
+  border-bottom: 1px solid var(--border);
+}
+h3 {
+  margin: 1.35em 0 0.45em;
+  color: #294e73;
+  font-size: clamp(1.08rem, 1.55vw, 1.24rem);
+  line-height: 1.32;
+}
+p { margin: 0.8em 0; }
+ul { margin-top: 0.45em; padding-left: 1.35rem; }
+li { min-width: 0; }
 
-    .profile-photo-wrap {
-      width: clamp(145px, 18vw, 180px);
-      justify-self: end;
-    }
+.news-box {
+  max-height: 285px;
+  overflow-y: auto;
+  padding: 12px 15px;
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  background: var(--panel);
+  scrollbar-width: thin;
+}
+.news-box p { margin: 0; line-height: 1.7; }
 
-    .profile-photo {
-      width: 100%;
-      aspect-ratio: 9 / 11;
-      object-fit: cover;
-      border-radius: 8px;
-      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
-      background: #f2f3f5;
-    }
+.pub-item { margin-bottom: 10px; }
+.pub-item p { margin: 9px 0 15px; line-height: 1.58; }
+.pub-item a { overflow-wrap: anywhere; word-break: break-word; }
+.pub-note { color: #a33; font-weight: 700; }
+.publication-legend {
+  margin: 4px 0 15px;
+  color: var(--muted);
+  font-size: 0.82rem;
+  line-height: 1.55;
+}
+.author-marker {
+  margin-left: 1px;
+  color: #a33;
+  font-size: 0.78em;
+  font-style: normal;
+}
+.pub-role {
+  display: inline-block;
+  margin: 5px 6px 0 0;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 0.74rem;
+  line-height: 1.45;
+  font-style: normal;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.role-first { background: var(--first-bg); color: var(--first-text); }
+.role-corresponding { background: var(--corr-bg); color: var(--corr-text); }
+.role-coauthor { background: var(--co-bg); color: var(--co-text); }
+.research-list li, .ip-list li { margin-bottom: 7px; line-height: 1.5; }
+.muted { color: var(--muted); font-size: 0.8rem; }
 
-    .social-links {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      gap: 9px 12px;
-      margin: 8px 0 0;
-    }
+/* Tablet and narrow browser windows */
+@media (max-width: 780px) {
+  #layout-content {
+    width: min(100% - 20px, 1040px);
+    margin: 10px auto;
+    padding: clamp(15px, 4vw, 25px);
+    border-radius: 10px;
+  }
+  .profile-card {
+    grid-template-columns: 1fr;
+    gap: 14px;
+    text-align: center;
+  }
+  .profile-photo-wrap { order: -1; text-align: center; }
+  .profile-photo {
+    width: clamp(132px, 34vw, 165px);
+    margin: 0 auto;
+  }
+  .affiliation-line { display: block; }
+  .social-links { justify-content: center; }
+  .contact-line { text-align: center; }
+  p[style*="text-align: justify"] { text-align: left !important; }
+  .news-box { max-height: none; overflow: visible; }
+  ul { padding-left: 1.18rem; }
+}
 
-    .social-links a {
-      display: inline-flex;
-      align-items: center;
-      margin: 0;
-      white-space: nowrap;
-    }
+/* Phones */
+@media (max-width: 480px) {
+  html { font-size: 15px; }
+  #layout-content {
+    width: 100%;
+    margin: 0;
+    padding: 14px 13px 24px;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+  .profile-card { margin-bottom: 18px; }
+  .profile-name h1 { font-size: clamp(1.7rem, 9vw, 2.05rem); }
+  .profile-name h1 + h1 { font-size: clamp(1.45rem, 7.5vw, 1.78rem); }
+  .position { font-size: 1.05rem; }
+  .affiliation { font-size: 0.96rem; }
+  .contact-line a { display: inline-block; }
+  .email-separator { display: block; height: 2px; font-size: 0; }
+  .social-links { gap: 8px 11px; }
+  .social-links img { height: 27px; }
+  h2 { margin-top: 1.45em; }
+  .pub-item p { font-size: 0.96rem; line-height: 1.6; }
+  .pub-role { font-size: 0.7rem; padding: 2px 7px; }
+}
 
-    .social-links img {
-      width: auto;
-      height: 30px;
-      border: 0;
-    }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
 
-    h2 {
-      margin-top: clamp(1.35em, 3vw, 1.8em);
-      line-height: 1.3;
-    }
-
-    h3 { line-height: 1.35; }
-
-    p, li { max-width: 100%; }
-
-    ul { padding-left: clamp(1.1rem, 3vw, 1.65rem); }
-
-    .news-box {
-      max-height: 285px;
-      overflow-y: auto;
-      padding: 10px 14px;
-      border: 1px solid var(--border);
-      border-radius: 7px;
-      background: var(--panel);
-      -webkit-overflow-scrolling: touch;
-    }
-
-    .news-box p { line-height: 1.68; margin: 0; }
-    .pub-item { margin-bottom: 8px; }
-    .pub-item p { line-height: 1.55; margin: 10px 0 14px; }
-    .pub-item a { overflow-wrap: anywhere; }
-    .pub-note { color: #a33; font-weight: 700; }
-
-    .publication-legend {
-      color: var(--muted);
-      font-size: 13px;
-      line-height: 1.5;
-      margin: 4px 0 14px;
-    }
-
-    .author-marker {
-      margin-left: 1px;
-      font-size: 0.78em;
-      color: #a33;
-      font-style: normal;
-    }
-
-    .pub-role {
-      display: inline-block;
-      max-width: 100%;
-      margin: 5px 6px 0 0;
-      padding: 2px 8px;
-      border-radius: 999px;
-      font-size: 12px;
-      line-height: 1.45;
-      font-style: normal;
-      font-weight: 700;
-      white-space: normal;
-    }
-
-    .role-first { background: var(--first-bg); color: var(--first-text); }
-    .role-corresponding { background: var(--corr-bg); color: var(--corr-text); }
-    .role-coauthor { background: var(--co-bg); color: var(--co-text); }
-    .research-list li, .ip-list li { margin-bottom: 7px; line-height: 1.48; }
-    .muted { color: var(--muted); font-size: 12px; }
-
-    @media (max-width: 760px) {
-      :root { --page-gutter: clamp(12px, 4vw, 20px); }
-
-      #layout-content {
-        margin-top: 14px;
-        width: min(100% - 2 * var(--page-gutter), 720px);
-      }
-
-      body {
-        font-size: clamp(15px, 3.7vw, 16px);
-        line-height: 1.58;
-      }
-
-      .profile-header {
-        grid-template-columns: 1fr;
-        gap: 14px;
-        text-align: center;
-      }
-
-      .profile-main {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-      }
-
-      .profile-photo-wrap {
-        grid-row: 1;
-        width: clamp(132px, 38vw, 162px);
-        justify-self: center;
-      }
-
-      .profile-photo { margin: 0 auto; }
-      .affiliation, .contact-line { text-align: center; }
-      .social-links { justify-content: center; }
-      .news-box { max-height: none; overflow: visible; padding: 10px 12px; }
-      .pub-item p { font-size: 0.96rem; line-height: 1.58; }
-      .publication-legend { font-size: 12px; }
-    }
-
-    @media (max-width: 430px) {
-      :root { --page-gutter: 11px; }
-      #toptitle h1 { font-size: clamp(1.55rem, 8vw, 1.82rem); }
-      .position-title { margin-top: 10px; }
-      .social-links { gap: 8px 10px; }
-      .social-links img { height: 27px; }
-      .profile-photo-wrap { width: min(42vw, 145px); }
-      .pub-role { font-size: 11px; padding: 2px 7px; }
-      ul { padding-left: 1.15rem; }
-    }
-
-    @media (min-width: 1400px) {
-      #layout-content { width: min(88vw, 1120px); }
-    }
-
-    @media print {
-      .news-box { max-height: none; overflow: visible; }
-      .profile-photo { box-shadow: none; }
-      a { color: inherit; text-decoration: none; }
-    }
-</style>
-<meta content="#ffffff" name="theme-color"/></head>
+@media print {
+  body { background: #fff; }
+  #layout-content {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-shadow: none;
+  }
+  .news-box { max-height: none; overflow: visible; }
+  .profile-photo { box-shadow: none; }
+  a { color: inherit; text-decoration: none; }
+}
+</style></head>
 <body>
 <div id="layout-content">
-<section class="profile-header" aria-label="Profile">
-  <div class="profile-main">
-    <div id="toptitle">
-      <h1>Liangrui Pan</h1>
-      <h1>潘良睿</h1>
-    </div>
-
-    <h3 class="position-title">Research Fellow</h3>
-    <p class="affiliation">
-      <a href="https://www.ntu.edu.sg/computing" target="_blank" rel="noopener noreferrer">College of Computing and Data Science (CCDS)</a><br/>
-      Nanyang Technological University (NTU Singapore)<br/>
-      Singapore
-    </p>
-
-    <p class="contact-line"><em>Email:
-      <a href="/cdn-cgi/l/email-protection#3444555a5846745c5a411a5150411a575a"><span class="__cf_email__" data-cfemail="4c3c2d22203e0c24223962292839622f22">[email&#160;protected]</span></a> or
-      <a href="/cdn-cgi/l/email-protection#deb2b7aeefeaefe9e9ec9eb9b3bfb7b2f0bdb1b3"><span class="__cf_email__" data-cfemail="87ebeef7b6b3b6b0b0b5c7e0eae6eeeba9e4e8ea">[email&#160;protected]</span></a>
-    </em></p>
-
-    <p class="social-links">
-      <a href="https://scholar.google.com/citations?user=-zSEPX0AAAAJ&amp;hl=zh-CN" rel="noopener noreferrer" target="_blank"><img alt="Google Scholar" src="./pic/google_scholar.png" title="Google Scholar"/></a>
-      <a href="https://github.com/panliangrui" rel="noopener noreferrer" target="_blank"><img alt="GitHub" src="./pic/github.jpg" title="GitHub"/></a>
-      <a href="https://www.researchgate.net/profile/Liangrui-Pan" rel="noopener noreferrer" target="_blank"><img alt="ResearchGate" src="./pic/rg.png" title="ResearchGate"/></a>
-      <a href="https://orcid.org/0000-0003-0565-4217" rel="noopener noreferrer" target="_blank">ORCID</a>
-      <a href="https://dblp.org/pid/270/5710" rel="noopener noreferrer" target="_blank">DBLP</a>
-    </p>
-  </div>
-
-  <div class="profile-photo-wrap">
-    <img alt="Liangrui Pan" class="profile-photo" decoding="async" fetchpriority="high" loading="eager"
-         onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/panliangrui/resume/master/pic/lrp.jpg';"
-         src="./pic/lrp.jpg" width="180" height="220"/>
-  </div>
+<section aria-label="Profile" class="profile-card">
+<div class="profile-main">
+<div class="profile-name">
+<h1>Liangrui Pan</h1>
+<h1>潘良睿</h1>
+</div>
+<div class="position">Research Fellow</div>
+<div class="affiliation">
+<a href="https://www.ntu.edu.sg/computing" rel="noopener noreferrer" target="_blank">
+<span class="affiliation-line">College of Computing and Data Science (CCDS)</span>
+<span class="affiliation-line">Nanyang Technological University (NTU)</span>
+<span class="affiliation-line">Singapore</span>
+</a>
+</div>
+<p class="contact-line"><em>Email:
+      <a href="/cdn-cgi/l/email-protection#c7b7a6a9abb587afa9b2e9a2a3b2e9a4a9"><span class="__cf_email__" data-cfemail="f68697989a84b69e9883d8939283d89598">panlr@hnu.edu.cn</span></a>
+<span class="email-separator">or</span>
+<a href="/cdn-cgi/l/email-protection#f39f9a83c2c7c2c4c4c1b3949e929a9fdd909c9e"><span class="__cf_email__" data-cfemail="8ee2e7febfbabfb9b9bccee9e3efe7e2a0ede1e3">lip141772@gmail.com</span></a>
+</em></p>
+<div aria-label="Academic profiles" class="social-links">
+<a href="https://scholar.google.com/citations?user=-zSEPX0AAAAJ&amp;hl=zh-CN" rel="noopener noreferrer" target="_blank"><img alt="Google Scholar" src="./pic/google_scholar.png" title="Google Scholar"/></a>
+<a href="https://github.com/panliangrui" rel="noopener noreferrer" target="_blank"><img alt="GitHub" src="./pic/github.jpg" title="GitHub"/></a>
+<a href="https://www.researchgate.net/profile/Liangrui-Pan" rel="noopener noreferrer" target="_blank"><img alt="ResearchGate" src="./pic/rg.png" title="ResearchGate"/></a>
+<a href="https://orcid.org/0000-0003-0565-4217" rel="noopener noreferrer" target="_blank">ORCID</a>
+<a href="https://dblp.org/pid/270/5710" rel="noopener noreferrer" target="_blank">DBLP</a>
+</div>
+</div>
+<div class="profile-photo-wrap">
+<img alt="Liangrui Pan" class="profile-photo" decoding="async" height="220" loading="eager" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/panliangrui/resume/master/pic/lrp.jpg';" src="./pic/lrp.jpg" width="180"/>
+</div>
 </section>
 <p style="text-align: justify;">
-  Liangrui Pan is currently a Research Fellow at the
-  <a href="https://www.ntu.edu.sg/computing" target="_blank" rel="noopener noreferrer">College of Computing and Data Science, Nanyang Technological University</a>
-  in Singapore, working with
-  <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=_Pvgwd0AAAAJ" rel="noopener noreferrer" target="_blank">Prof. Yang Liu</a>.
-  He received his Ph.D. in Electronic Information from Hunan University in June 2026 under the supervision of
-  <a href="https://csee.hnu.edu.cn/" rel="noopener noreferrer" target="_blank">Prof. Shaoliang Peng</a>,
-  and received his master's degree from Prince of Songkla University under the supervision of Prof. Mitchai Chongcheawchamnan.
-  His research focuses on artificial intelligence for healthcare, particularly medical image analysis, computational pathology,
-  multimodal learning, cancer bioinformatics, and precision oncology.
-</p>
+    Liangrui Pan is currently a researcher at Nanyang Technological University (NTU) in Singapore, under the supervision of <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=_Pvgwd0AAAAJ" rel="noopener noreferrer" target="_blank">Prof. Yang Liu</a>. He received his PhD in Electronic Information from Hunan University in June 2026. His research interests focus on medical image analysis, bioinformatics, big data, and artificial intelligence.I obtained my doctoral degree in Computer Science from Hunan University, supervised by
+    <a href="https://csee.hnu.edu.cn/" rel="noopener noreferrer" target="_blank">Prof. Shaoliang Peng</a>.
+    I received my master's degree from Prince of Songkla University under the supervision of
+    Prof. Mitchai Chongcheawchamnan. My research focuses on artificial intelligence for healthcare,
+    with particular interests in medical image analysis, computational pathology, multimodal learning,
+    cancer bioinformatics, and precision oncology.
+  </p>
 <p style="text-align: justify;">
     My recent work investigates weakly supervised learning for whole-slide images, tumor-microenvironment
     modeling, radiopathological fusion, graph neural networks, multi-omics representation learning, and
@@ -336,9 +351,9 @@
 </ul>
 <h2>News</h2>
 <div class="news-box">
-<p>[May 2026] Our work on diffusion attention for STAS prediction and semi-automatic localization was published in Nature Communications.<br/>
-    [Feb 2026] A multicenter deep learning study for STAS diagnosis was published in Laboratory Investigation.<br/>
-    [Oct 2025] Our tumor-microenvironment-based lung cancer mutation prediction study was accepted by Cancer Research.<br/>
+<p>[May 2026] Our work on diffusion attention for STAS prediction and semi-automatic localization was published in Nature Communications.<br>
+    [Feb 2026] A multicenter deep learning study for STAS diagnosis was published in Laboratory Investigation.<br>
+    [Oct 2025] Our tumor-microenvironment-based lung cancer mutation prediction study was accepted by Cancer Research.<br>
     [Oct 2025] Multiple papers were accepted by IEEE BIBM 2025.<br/>
     [Apr 2025] SMILE was accepted by IJCAI 2025.<br/>
     [Mar 2025] Our survey on multimodal fusion for cancer diagnosis was accepted by Engineering Applications of Artificial Intelligence.<br/>
@@ -347,7 +362,7 @@
     [Oct 2024] A protein-language-model study was accepted by Nature Communications.<br/>
     [Oct 2024] Two papers were accepted by IEEE BIBM 2024.<br/>
     [Aug 2024] One paper was accepted by IEEE BIBM 2024.<br/>
-    [May 2024] Our perspective on large AI models in radiology was accepted by Meta-Radiology.</p>
+    [May 2024] Our perspective on large AI models in radiology was accepted by Meta-Radiology.</br></br></br></p>
 </div>
 <h2>Selected Publications</h2>
 <p class="publication-legend">Liangrui Pan is shown in bold. <span class="author-marker">*</span> denotes first/co-first authorship; <span class="author-marker">✉</span> denotes corresponding authorship. Role badges describe Liangrui Pan's position in each publication; unverified non-leading roles are marked as co-author.</p>
@@ -497,7 +512,9 @@
   IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025. <span class="pub-note">CCF B</span><br/><span class="pub-role role-coauthor">Co-author</span></p>
 </li>
 <li class="pub-item">
-<p><b><a href="https://doi.org/10.1109/BIBM62325.2024.10822021" rel="noopener noreferrer" target="_blank">FedDP: Privacy-preserving method based on federated learning for histopathology image segmentation</a></b><br/>
+<p><b><a href="https://doi.org/10.1109/BIBM62325.2024.10822021
+        
+        " rel="noopener noreferrer" target="_blank">FedDP: Privacy-preserving method based on federated learning for histopathology image segmentation</a></b><br/>
 <i><b>Liangrui Pan<sup class="author-marker" title="First or co-first author">*</sup></b>, M. Huang, Lian Wang, P. Qin, and Shaoliang Peng</i><br/>
   IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2024. <span class="pub-note">CCF B</span><br/><span class="pub-role role-first">Co-first author</span></p>
 </li>
@@ -559,11 +576,8 @@
 <ul class="ip-list"><li>一种框架辅助肝癌组织全幻灯片的肿瘤微环境分析方法，CN202211145469.5</li><li>一种用于病理图像分割的双端层次化的特征融合方法，CN202211320016.1</li></ul>
 <h2>Chinese Software Copyrights</h2>
 <ul class="ip-list"><li>基于人工智能的肺癌组织病理学图像气腔内播散检测软件，2024SR0858590</li><li>基于人工智能的结肠细胞核实例分割和定量软件，2022R11L1842544</li></ul>
-<p style="text-align: center; margin-top: 35px;">
-    © 2026 Liangrui Pan | Last updated: July 2026
-  </p>
+<p style="text-align: center; margin-top: 35px;">© 2026 Liangrui Pan | Last updated: July 2026</p>
 </div>
-
 
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"7939e04a4baf43c8b86a560f74aac60e","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
