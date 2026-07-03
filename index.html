@@ -2,13 +2,11 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0, viewport-fit=cover" name="viewport"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 <link href="myIcon.ico" rel="shortcut icon"/>
 <meta content="Liangrui Pan, Pan Liangrui, 潘良睿, Hunan University, Medical AI, Computational Pathology, Multimodal Learning, Bioinformatics" name="keywords"/>
 <meta content="Liangrui Pan's academic homepage" name="description"/>
-
 <title>Liangrui Pan's Homepage | NTU Singapore</title>
-
 <meta content="#f5f7fb" name="theme-color"/><style type="text/css">
 :root {
   --page-bg: #f5f7fb;
@@ -288,7 +286,129 @@ li { min-width: 0; }
   .profile-photo { box-shadow: none; }
   a { color: inherit; text-decoration: none; }
 }
-</style></head>
+
+
+/* Robust responsive fixes */
+.profile-main,
+.profile-photo-wrap,
+.pub-item,
+.pub-item p,
+.bio-text { min-width: 0; }
+
+.affiliation,
+.affiliation a,
+.affiliation a:link,
+.affiliation a:visited,
+.affiliation a:hover,
+.affiliation a:active,
+.affiliation-line {
+  color: var(--institution) !important;
+}
+
+.contact-label { font-weight: 600; }
+.bio-text { text-align: justify; }
+
+@media (max-width: 780px) {
+  .bio-text { text-align: left; }
+  .profile-main { width: 100%; }
+}
+
+@media (max-width: 480px) {
+  .contact-line {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+  }
+  .contact-label { margin-bottom: 2px; }
+  .email-separator {
+    display: block;
+    height: auto;
+    margin: 0;
+    font-size: 0.82rem;
+  }
+}
+
+
+
+/* Final cross-browser responsive safeguards */
+html, body {
+  width: 100%;
+  max-width: 100%;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#layout-content,
+.profile-card,
+.profile-main,
+.profile-photo-wrap,
+.pub-item,
+.pub-item p,
+.news-box {
+  min-width: 0;
+}
+
+.affiliation,
+.affiliation a,
+.affiliation a:link,
+.affiliation a:visited,
+.affiliation a:hover,
+.affiliation a:active,
+.affiliation-line {
+  color: var(--institution) !important;
+}
+
+.affiliation-line {
+  display: block;
+  width: 100%;
+}
+
+.contact-line a,
+.pub-item a,
+.bio-text a {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+@media (max-width: 900px) {
+  #layout-content {
+    width: calc(100% - 24px);
+  }
+}
+
+@media (max-width: 780px) {
+  .profile-card {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .profile-main,
+  .profile-photo-wrap {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  #layout-content {
+    width: 100%;
+    max-width: none;
+  }
+  .contact-line {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+  }
+  .email-separator {
+    display: block;
+    margin: 0;
+  }
+}
+
+</style>
+</head>
 <body>
 <div id="layout-content">
 <section aria-label="Profile" class="profile-card">
@@ -301,15 +421,16 @@ li { min-width: 0; }
 <div class="affiliation">
 <a href="https://www.ntu.edu.sg/computing" rel="noopener noreferrer" target="_blank">
 <span class="affiliation-line">College of Computing and Data Science (CCDS)</span>
-<span class="affiliation-line">Nanyang Technological University (NTU)</span>
+<span class="affiliation-line">Nanyang Technological University (NTU Singapore)</span>
 <span class="affiliation-line">Singapore</span>
 </a>
 </div>
-<p class="contact-line"><em>Email:
-      <a href="/cdn-cgi/l/email-protection#c7b7a6a9abb587afa9b2e9a2a3b2e9a4a9"><span class="__cf_email__" data-cfemail="f68697989a84b69e9883d8939283d89598">panlr@hnu.edu.cn</span></a>
-<span class="email-separator">or</span>
-<a href="/cdn-cgi/l/email-protection#f39f9a83c2c7c2c4c4c1b3949e929a9fdd909c9e"><span class="__cf_email__" data-cfemail="8ee2e7febfbabfb9b9bccee9e3efe7e2a0ede1e3">lip141772@gmail.com</span></a>
-</em></p>
+<p class="contact-line">
+  <span class="contact-label">Email:</span>
+  <a href="/cdn-cgi/l/email-protection#82f2e3eceef0c2eaecf7ace7e6f7ace1ec"><span class="__cf_email__" data-cfemail="4a3a2b2426380a22243f642f2e3f642924">panlr@hnu.edu.cn</span></a>
+  <span class="email-separator">or</span>
+  <a href="/cdn-cgi/l/email-protection#573b3e2766636660606517303a363e3b7934383a"><span class="__cf_email__" data-cfemail="c7abaeb7f6f3f6f0f0f587a0aaa6aeabe9a4a8aa">lip141772@gmail.com</span></a>
+</p>
 <div aria-label="Academic profiles" class="social-links">
 <a href="https://scholar.google.com/citations?user=-zSEPX0AAAAJ&amp;hl=zh-CN" rel="noopener noreferrer" target="_blank"><img alt="Google Scholar" src="./pic/google_scholar.png" title="Google Scholar"/></a>
 <a href="https://github.com/panliangrui" rel="noopener noreferrer" target="_blank"><img alt="GitHub" src="./pic/github.jpg" title="GitHub"/></a>
@@ -319,18 +440,21 @@ li { min-width: 0; }
 </div>
 </div>
 <div class="profile-photo-wrap">
-<img alt="Liangrui Pan" class="profile-photo" decoding="async" height="220" loading="eager" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/panliangrui/resume/master/pic/lrp.jpg';" src="./pic/lrp.jpg" width="180"/>
+<img alt="Liangrui Pan" class="profile-photo" decoding="async" height="220" loading="eager" src="./pic/lrp.jpg" width="180"/>
 </div>
 </section>
-<p style="text-align: justify;">
-    Liangrui Pan is currently a researcher at Nanyang Technological University (NTU) in Singapore, under the supervision of <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=_Pvgwd0AAAAJ" rel="noopener noreferrer" target="_blank">Prof. Yang Liu</a>. He received his PhD in Electronic Information from Hunan University in June 2026. His research interests focus on medical image analysis, bioinformatics, big data, and artificial intelligence.I obtained my doctoral degree in Computer Science from Hunan University, supervised by
-    <a href="https://csee.hnu.edu.cn/" rel="noopener noreferrer" target="_blank">Prof. Shaoliang Peng</a>.
-    I received my master's degree from Prince of Songkla University under the supervision of
-    Prof. Mitchai Chongcheawchamnan. My research focuses on artificial intelligence for healthcare,
-    with particular interests in medical image analysis, computational pathology, multimodal learning,
-    cancer bioinformatics, and precision oncology.
-  </p>
-<p style="text-align: justify;">
+<p class="bio-text">
+Liangrui Pan is currently a Research Fellow at the College of Computing and Data Science,
+Nanyang Technological University (NTU Singapore), under the supervision of
+<a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=_Pvgwd0AAAAJ" rel="noopener noreferrer" target="_blank">Prof. Yang Liu</a>.
+He received his Ph.D. in Electronic Information from Hunan University in June 2026 under the supervision of
+<a href="https://csee.hnu.edu.cn/" rel="noopener noreferrer" target="_blank">Prof. Shaoliang Peng</a>,
+and obtained his master's degree from Prince of Songkla University under the supervision of
+Prof. Mitchai Chongcheawchamnan. His research focuses on artificial intelligence for healthcare,
+with particular interests in medical image analysis, computational pathology, multimodal learning,
+cancer bioinformatics, and precision oncology.
+</p>
+<p class="bio-text">
     My recent work investigates weakly supervised learning for whole-slide images, tumor-microenvironment
     modeling, radiopathological fusion, graph neural networks, multi-omics representation learning, and
     clinically interpretable AI. I have authored or co-authored more than 20 peer-reviewed papers in journals
@@ -338,7 +462,7 @@ li { min-width: 0; }
     <i>npj Precision Oncology</i>, <i>Computer Methods and Programs in Biomedicine</i>, <i>Biomedical Signal Processing and Control</i>, <i>Engineering Applications of Artificial Intelligence</i>,
     IJCAI, and IEEE BIBM.
 </p>
-<p style="text-align: justify;">
+<p class="bio-text">
     Furthermore, he has 13 patent applications currently under public substantive review, 7 granted patents, and holds 2 granted software copyrights. His honors and awards include the Outstanding Graduate Student of Hunan University (2024, 2025), the National Scholarship for Doctoral Students (2025), the Outstanding Graduate of Hunan University (2026), and the Outstanding Graduate of Hunan Province (2026).
   </p>
 <h2>Research Interests</h2>
@@ -351,10 +475,10 @@ li { min-width: 0; }
 </ul>
 <h2>News</h2>
 <div class="news-box">
-<p>[May 2026] Our work on STAMP for STAS Diagnosis in Multi-center Histopathology Images was published in <b>IJCAI 2026</b>.<br>
-    [May 2026] Our work on diffusion attention for STAS prediction and semi-automatic localization was published in <b>Nature Communications</b>.<br>
-    [Feb 2026] A multicenter deep learning study for STAS diagnosis was published in <b>Laboratory Investigation</b>.<br>
-    [Oct 2025] Our tumor-microenvironment-based lung cancer mutation prediction study was accepted by <b>Cancer Research</b>.<br>
+<p> [May 2026] Our work on STAMP for STAS Diagnosis in Multi-center Histopathology Images was published in <b>IJCAI 2026</b>.<br/>
+    [May 2026] Our work on diffusion attention for STAS prediction and semi-automatic localization was published in <b>Nature Communications</b>.<br/>
+    [Feb 2026] A multicenter deep learning study for STAS diagnosis was published in <b>Laboratory Investigation</b>.<br/>
+    [Oct 2025] Our tumor-microenvironment-based lung cancer mutation prediction study was accepted by <b>Cancer Research</b>.<br/>
     [Oct 2025] Multiple papers were accepted by <b>IEEE BIBM 2025</b>.<br/>
     [Apr 2025] SMILE was accepted by <b>IJCAI 2025</b>.<br/>
     [Mar 2025] Our survey on multimodal fusion for cancer diagnosis was accepted by <b>Engineering Applications of Artificial Intelligence</b>.<br/>
@@ -363,23 +487,19 @@ li { min-width: 0; }
     [Oct 2024] A protein-language-model study was accepted by <b>Nature Communications</b>.<br/>
     [Oct 2024] Two papers were accepted by <b>IEEE BIBM 2024</b>.<br/>
     [Aug 2024] One paper was accepted by <b>IEEE BIBM 2024</b>.<br/>
-    [May 2024] Our perspective on large AI models in radiology was accepted by <b>Meta-Radiology</b>.</br></br></br></p>
+    [May 2024] Our perspective on large AI models in radiology was accepted by <b>Meta-Radiology</b>.</p>
 </div>
 <h2>Selected Publications</h2>
 <p class="publication-legend">Liangrui Pan is shown in bold. <span class="author-marker">*</span> denotes first/co-first authorship; <span class="author-marker">✉</span> denotes corresponding authorship. Role badges describe Liangrui Pan's position in each publication; unverified non-leading roles are marked as co-author.</p>
 <h3>Journal Papers</h3>
 <ul>
 <li class="pub-item">
-<p><b><a href="https://doi.org/10.1038/s41467-026-73786-7
-        
-        " rel="noopener noreferrer" target="_blank">Diffusion attention expert model for predicting and semi-automatic localizing STAS in lung cancer histopathological images</a></b><br/>
+<p><b><a href="https://doi.org/10.1038/s41467-026-73786-7" rel="noopener noreferrer" target="_blank">Diffusion attention expert model for predicting and semi-automatic localizing STAS in lung cancer histopathological images</a></b><br/>
 <i><b>Liangrui Pan<sup class="author-marker" title="First or co-first author">*</sup><sup class="author-marker" title="Corresponding author">✉</sup></b>, Jiadi Luo, Yuxuan Xiao, Chenchen Nie, Xiaoshuai Wu, Songqing Fan, Ling Chu, Manqiu Li, Rongfang He, Zhenyu Zhao, Ruixing Wang, Shulin Liu, Yiyi Liang, Xiang Wang, Qingchun Liang, and Shaoliang Peng</i><br/>
   Nature Communications, 2026. <span class="pub-note">Open Access</span><br/><span class="pub-role role-first">First author</span><span class="pub-role role-corresponding">Corresponding author</span></p>
 </li>
 <li class="pub-item">
-<p><b><a href="https://doi.org/10.1016/j.labinv.2025.105947
-        
-        " rel="noopener noreferrer" target="_blank">A Multicenter Deep Learning Study for the Diagnosis of STAS in Histopathological Images of Lung Cancer Patients</a></b><br/>
+<p><b><a href="https://doi.org/10.1016/j.labinv.2025.105947" rel="noopener noreferrer" target="_blank">A Multicenter Deep Learning Study for the Diagnosis of STAS in Histopathological Images of Lung Cancer Patients</a></b><br/>
 <i><b>Liangrui Pan<sup class="author-marker" title="First or co-first author">*</sup></b>, Jiadi Luo, Chenchen Nie, Songqing Fan, and Qingchun Liang</i><br/>
   Laboratory Investigation, 2026.<br/><span class="pub-role role-first">First author</span></p>
 </li>
@@ -484,9 +604,7 @@ li { min-width: 0; }
   IEEE Sensors Journal, 2021.<br/><span class="pub-role role-first">First author</span></p>
 </li>
 <li class="pub-item">
-<p><b><a href="https://doi.org/10.1109/ACCESS.2020.3035884
-        
-        " rel="noopener noreferrer" target="_blank">Method for classifying a noisy Raman spectrum based on a wavelet transform and a deep neural network</a></b><br/>
+<p><b><a href="https://doi.org/10.1109/ACCESS.2020.3035884" rel="noopener noreferrer" target="_blank">Method for classifying a noisy Raman spectrum based on a wavelet transform and a deep neural network</a></b><br/>
 <i><b>Liangrui Pan<sup class="author-marker" title="First or co-first author">*</sup></b>, Pronthep Pipitsunthonsan, Chalongrat Daengngam, Sittiporn Channumsin, Suwat Sreesawet, and Mitchai Chongcheawchamnan</i><br/>
   IEEE Access, 2020.<br/><span class="pub-role role-first">First author</span></p>
 </li>
@@ -504,39 +622,27 @@ li { min-width: 0; }
   International Joint Conference on Artificial Intelligence (IJCAI), 2025. <span class="pub-note">CCF A</span><br/><span class="pub-role role-first">Co-first author</span></p>
 </li>
 <li class="pub-item">
-<p><b><a href="https://doi.org/10.1109/BIBM66473.2025.11356372
-        
-        " rel="noopener noreferrer" target="_blank">DLiPath: A Benchmark for the Comprehensive Assessment of Donor Liver Based on Histopathological Image Dataset</a></b><br/>
+<p><b><a href="https://doi.org/10.1109/BIBM66473.2025.11356372" rel="noopener noreferrer" target="_blank">DLiPath: A Benchmark for the Comprehensive Assessment of Donor Liver Based on Histopathological Image Dataset</a></b><br/>
 <i><b>Liangrui Pan<sup class="author-marker" title="First or co-first author">*</sup></b>, Xingchen Li, Zhongyi Chen, Ling Chu, and Shaoliang Peng</i><br/>
   IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025. <span class="pub-note">CCF B</span><br/><span class="pub-role role-first">First author</span></p>
 </li>
 <li class="pub-item">
-<p><b><a href="https://doi.org/10.1109/BIBM66473.2025.11357095
-        
-        " rel="noopener noreferrer" target="_blank">MP-MIL: Multi-View Multiple Instance Learning with Positional Embedding to Predict PIK3CA Mutation</a></b><br/>
+<p><b><a href="https://doi.org/10.1109/BIBM66473.2025.11357095" rel="noopener noreferrer" target="_blank">MP-MIL: Multi-View Multiple Instance Learning with Positional Embedding to Predict PIK3CA Mutation</a></b><br/>
 <i>Guanting Li, <b>Liangrui Pan</b>, Xiaoyu Li, Jiadi Luo, Qingchun Liang, and Shaoliang Peng</i><br/>
   IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025. <span class="pub-note">CCF B</span><br/><span class="pub-role role-coauthor">Co-author</span></p>
 </li>
 <li class="pub-item">
-<p><b><a href="https://doi.org/10.1109/BIBM66473.2025.11356955
-        
-        " rel="noopener noreferrer" target="_blank">GEMIL: A GELU-Enhanced Multiple-Instance Learning Model for Predicting Gene Mutations in Lung Cancer</a></b><br/>
+<p><b><a href="https://doi.org/10.1109/BIBM66473.2025.11356955" rel="noopener noreferrer" target="_blank">GEMIL: A GELU-Enhanced Multiple-Instance Learning Model for Predicting Gene Mutations in Lung Cancer</a></b><br/>
 <i>Haihua Zhu, <b>Liangrui Pan</b>, Christopher Wang, Jiadi Luo, Qingchun Liang, and Shaoliang Peng</i><br/>
   IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025. <span class="pub-note">CCF B</span><br/><span class="pub-role role-coauthor">Co-author</span></p>
 </li>
 <li class="pub-item">
-<p><b><a href="https://doi.org/10.1109/BIBM66473.2025.11357143
-        
-        " rel="noopener noreferrer" target="_blank">MSI-GNN: A Graph Neural Network for Pathogenicity Prediction of Microsatellite Insertions</a></b><br/>
-<i>Yaning Yang, Yadong Fan, Yue Liu, <b>Liangrui Pan</sup><sup class="author-marker" title="Corresponding author">✉</sup>, and Shaoliang Peng</i><br/>
+<p><b><a href="https://doi.org/10.1109/BIBM66473.2025.11357143" rel="noopener noreferrer" target="_blank">MSI-GNN: A Graph Neural Network for Pathogenicity Prediction of Microsatellite Insertions</a></b><br/>
+<i>Yaning Yang, Yadong Fan, Yue Liu, <b>Liangrui Pan<sup class="author-marker" title="Corresponding author">✉</sup></b>, and Shaoliang Peng</i><br/>
   IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025. <span class="pub-note">CCF B, Best paper</span><br/><span class="pub-role role-coauthor">Co-author</span></p>
 </li>
 <li class="pub-item">
-<p><b><a href="https://doi.org/10.1109/BIBM62325.2024.10822021
-        
-        
-        
-        " rel="noopener noreferrer" target="_blank">FedDP: Privacy-preserving method based on federated learning for histopathology image segmentation</a></b><br/>
+<p><b><a href="https://doi.org/10.1109/BIBM62325.2024.10822021" rel="noopener noreferrer" target="_blank">FedDP: Privacy-preserving method based on federated learning for histopathology image segmentation</a></b><br/>
 <i><b>Liangrui Pan<sup class="author-marker" title="First or co-first author">*</sup></b>, M. Huang, Lian Wang, P. Qin, and Shaoliang Peng</i><br/>
   IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2024. <span class="pub-note">CCF B</span><br/><span class="pub-role role-first">Co-first author</span></p>
 </li>
@@ -600,7 +706,6 @@ li { min-width: 0; }
 <ul class="ip-list"><li>基于人工智能的肺癌组织病理学图像气腔内播散检测软件，2024SR0858590</li><li>基于人工智能的结肠细胞核实例分割和定量软件，2022R11L1842544</li></ul>
 <p style="text-align: center; margin-top: 35px;">© 2026 Liangrui Pan | Last updated: July 2026</p>
 </div>
-
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"7939e04a4baf43c8b86a560f74aac60e","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 </html>
